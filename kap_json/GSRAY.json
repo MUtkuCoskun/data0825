@@ -1,0 +1,335 @@
+{
+  "ticker": "GSRAY",
+  "summary": {
+    "internet_adresi": "sportif.galatasaray.org",
+    "denetim_kurulusu": "EREN BAĞIMSIZ DENETİM A.Ş.",
+    "sektoru_raw": "EĞİTİM SAĞLIK SPOR VE EĞLENCE HİZMETLERİSPOR FAALİYETLERİ EĞLENCE VE OYUN FAALİYETLERİ",
+    "sektor_ana": "EĞİTİM SAĞLIK SPOR VE EĞLENCE HİZMETLERİ",
+    "sektor_alt": "SPOR FAALİYETLERİ EĞLENCE VE OYUN FAALİYETLERİ",
+    "sektor_alt_list": [
+      "SPOR FAALİYETLERİ EĞLENCE VE OYUN FAALİYETLERİ"
+    ],
+    "islem_gordugu_pazar": "YILDIZ PAZAR",
+    "dahil_oldugu_endeksler": [
+      "BIST YILDIZ",
+      "BIST TÜM",
+      "BIST İSTANBUL",
+      "BIST 500",
+      "BIST 100-30",
+      "BIST SPOR",
+      "BIST HİZMETLER",
+      "BIST 100"
+    ]
+  },
+  "general": {
+    "merkez_adresi": "Huzur Mahallesi Metin Oktay Caddesi Ali Sami Yen Spor Kompleksi Rams Park No:9A Sarıyer/İstanbul",
+    "uretim_tesis_adresleri": [],
+    "kotasyon_tarihi": "20/02/2002"
+  },
+  "ownership": {
+    "odenmis_cikarilmis_sermaye": null,
+    "kayitli_sermaye_tavani": null,
+    "sermaye_5ustu": [
+      {
+        "Ortağın Adı-Soyadı/Ticaret Ünvanı": "GALATASARAY SPOR KULÜBÜ DERNEĞİ",
+        "Sermayedeki Payı(TL)": "8.101.256.795,02",
+        "Sermayedeki Payı(%)": "60,01",
+        "Oy Hakkı Oranı(%)": "60,01"
+      },
+      {
+        "Ortağın Adı-Soyadı/Ticaret Ünvanı": "DİĞER",
+        "Sermayedeki Payı(TL)": "5.398.743.204,98",
+        "Sermayedeki Payı(%)": "39,99",
+        "Oy Hakkı Oranı(%)": "39,99"
+      },
+      {
+        "Ortağın Adı-Soyadı/Ticaret Ünvanı": "TOPLAM",
+        "Sermayedeki Payı(TL)": "13.500.000.000",
+        "Sermayedeki Payı(%)": "100",
+        "Oy Hakkı Oranı(%)": "100"
+      }
+    ],
+    "fiili_dolasim_tutar_tl": "5.395.908.999,01",
+    "fiili_dolasim_oran": "39,97",
+    "bagli_ortakliklar": [
+      {
+        "Ticaret Ünvanı": "Galatasaray Gayrimenkul Yatırım ve Geliştirme A.Ş.",
+        "Şirketin Faaliyet Konusu": "Gayrimenkul Yatırım ve Geliştirme Faaliyetleri",
+        "Ödenmiş/Çıkarılmış Sermayesi": "210.000",
+        "Şirketin Sermayedeki Payı": "209.996",
+        "Para Birimi": "TRY",
+        "Şirketin Sermayedeki Payı(%)": "100",
+        "Şirket ile Olan İlişkinin Niteliği": "Bağlı Ortaklık."
+      },
+      {
+        "Ticaret Ünvanı": "Galatasaray Mağazacılık ve Perakendecilik A.Ş.",
+        "Şirketin Faaliyet Konusu": "GS Logolu Ürünlerin Satışı ve Mağazacılık",
+        "Ödenmiş/Çıkarılmış Sermayesi": "30.000.000",
+        "Şirketin Sermayedeki Payı": "29.999.900",
+        "Para Birimi": "TRY",
+        "Şirketin Sermayedeki Payı(%)": "99,99",
+        "Şirket ile Olan İlişkinin Niteliği": "Bağlı Ortaklık."
+      },
+      {
+        "Ticaret Ünvanı": "Galatasaray Televizyon Yayıncılık A.Ş.",
+        "Şirketin Faaliyet Konusu": "İletişim Faaliyetleri",
+        "Ödenmiş/Çıkarılmış Sermayesi": "275.000",
+        "Şirketin Sermayedeki Payı": "274.500",
+        "Para Birimi": "TRY",
+        "Şirketin Sermayedeki Payı(%)": "99,82",
+        "Şirket ile Olan İlişkinin Niteliği": "GS Televizyon A.Ş., GS Mağazacılık A.Ş.'nin bağlı ortaklığı olup GS Sportif A.Ş.'nin dolaylı iştirakidir."
+      }
+    ]
+  },
+  "board_members": [
+    {
+      "Adı-Soyadı": "METİN ÖZTÜRK",
+      "Tüzel Kişi Üye Adına Hareket Eden Kişi": "",
+      "Cinsiyeti": "Erkek",
+      "Görevi": "Yönetim Kurulu Başkan Vekili",
+      "Mesleği": "İş Adamı / İş Kadını",
+      "Yönetim Kuruluna İlk Seçilme Tarihi": "29/07/2022",
+      "İcrada Görevli Olup Olmadığı": "İcrada Görevli",
+      "Son 5 Yılda Ortaklıkta Üstlendiği Görevler": "-",
+      "Son Durum itibariyle Ortaklık Dışında Aldığı Görevler": "2014-2018 döneminde GSYİAD (Galatasaray İş İnsanları Derneği) Başkanı görevini başarıyla yürüten Metin Öztürk, Assist Line ve Güneş Reklamcılık şirketlerinde Yönetim Kurulu Başkanı'dır.",
+      "Denetim, Muhasebe ve/veya Finans Alanında En Az 5 Yıllık Deneyime Sahip Olup Olmadığı": "Evet",
+      "Sermayedeki Payı (%)": "0",
+      "Temsil Ettiği Pay Grubu": "B"
+    },
+    {
+      "Adı-Soyadı": "NİYAZİ YELKENCİOĞLU",
+      "Tüzel Kişi Üye Adına Hareket Eden Kişi": "",
+      "Cinsiyeti": "Erkek",
+      "Görevi": "Yönetim Kurulu Üyesi",
+      "Mesleği": "İş Adamı / İş Kadını",
+      "Yönetim Kuruluna İlk Seçilme Tarihi": "29/07/2022",
+      "İcrada Görevli Olup Olmadığı": "İcrada Görevli",
+      "Son 5 Yılda Ortaklıkta Üstlendiği Görevler": "Yönetim Kurulu Üyesi",
+      "Son Durum itibariyle Ortaklık Dışında Aldığı Görevler": "Ereks İhracat, İthalat ve Tic. A.Ş., Yelkencioğlu Sigorta Aracalık Hizmetleri, Kandıra Mandacılık ve Gıda San. ve Bufala Süt Ürünleri San. şirketlerinin kurucusu ve Yönetim Kurulu Başkanıdır.",
+      "Denetim, Muhasebe ve/veya Finans Alanında En Az 5 Yıllık Deneyime Sahip Olup Olmadığı": "Evet",
+      "Sermayedeki Payı (%)": "0",
+      "Temsil Ettiği Pay Grubu": "A"
+    },
+    {
+      "Adı-Soyadı": "NİHAT KIRMIZI",
+      "Tüzel Kişi Üye Adına Hareket Eden Kişi": "",
+      "Cinsiyeti": "Erkek",
+      "Görevi": "Yönetim Kurulu Üyesi",
+      "Mesleği": "İş Adamı / İş Kadını",
+      "Yönetim Kuruluna İlk Seçilme Tarihi": "29/07/2022",
+      "İcrada Görevli Olup Olmadığı": "İcrada Görevli Değil",
+      "Son 5 Yılda Ortaklıkta Üstlendiği Görevler": "Yönetim Kurulu Üyesi",
+      "Son Durum itibariyle Ortaklık Dışında Aldığı Görevler": "Doğa Sigorta Yönetim Kurulu Başkanı ve İstanbul Ayvansaray Üniversitesi Mütevelli Heyeti başkanıdır.",
+      "Denetim, Muhasebe ve/veya Finans Alanında En Az 5 Yıllık Deneyime Sahip Olup Olmadığı": "Evet",
+      "Sermayedeki Payı (%)": "0",
+      "Temsil Ettiği Pay Grubu": "B"
+    },
+    {
+      "Adı-Soyadı": "DURSUN AYDIN ÖZBEK",
+      "Tüzel Kişi Üye Adına Hareket Eden Kişi": "",
+      "Cinsiyeti": "Erkek",
+      "Görevi": "Yönetim Kurulu Başkanı",
+      "Mesleği": "İş Adamı / İş Kadını",
+      "Yönetim Kuruluna İlk Seçilme Tarihi": "14/06/2022",
+      "İcrada Görevli Olup Olmadığı": "İcrada Görevli",
+      "Son 5 Yılda Ortaklıkta Üstlendiği Görevler": "Yönetim Kurulu Başkanı",
+      "Son Durum itibariyle Ortaklık Dışında Aldığı Görevler": "Galatasaray Spor Kulübü Derneği Yönetim Kurulu Başkanlığı görevinin yanı sıra turizm sektöründe hem yatırımcı hem de işletmeci olarak görev yapmaktadır.",
+      "Denetim, Muhasebe ve/veya Finans Alanında En Az 5 Yıllık Deneyime Sahip Olup Olmadığı": "Evet",
+      "Sermayedeki Payı (%)": "0",
+      "Temsil Ettiği Pay Grubu": "A"
+    },
+    {
+      "Adı-Soyadı": "MARUF GÜNEŞ",
+      "Tüzel Kişi Üye Adına Hareket Eden Kişi": "",
+      "Cinsiyeti": "Erkek",
+      "Görevi": "Yönetim Kurulu Başkan Vekili",
+      "Mesleği": "İş Adamı / İş Kadını",
+      "Yönetim Kuruluna İlk Seçilme Tarihi": "25/11/2022",
+      "İcrada Görevli Olup Olmadığı": "İcrada Görevli",
+      "Son 5 Yılda Ortaklıkta Üstlendiği Görevler": "Yönetim Kurulu Üyesi",
+      "Son Durum itibariyle Ortaklık Dışında Aldığı Görevler": "2008 yılından bu yana İnşaat, Enerji, Turizm ve Liman İşletmeciliği alanında faaliyet gösteren Güneş Holding Yönetim Kurulu Başkan Vekilliği görevinin yani sıra tüm şirketlerin yönetim kurulu başkanlık görevlerini sürdürmektedir.",
+      "Denetim, Muhasebe ve/veya Finans Alanında En Az 5 Yıllık Deneyime Sahip Olup Olmadığı": "Evet",
+      "Sermayedeki Payı (%)": "0",
+      "Temsil Ettiği Pay Grubu": "A"
+    },
+    {
+      "Adı-Soyadı": "ERAY YAZGAN",
+      "Tüzel Kişi Üye Adına Hareket Eden Kişi": "",
+      "Cinsiyeti": "Erkek",
+      "Görevi": "Yönetim Kurulu Üyesi",
+      "Mesleği": "İş Adamı / İş Kadını",
+      "Yönetim Kuruluna İlk Seçilme Tarihi": "25/11/2022",
+      "İcrada Görevli Olup Olmadığı": "İcrada Görevli",
+      "Son 5 Yılda Ortaklıkta Üstlendiği Görevler": "-",
+      "Son Durum itibariyle Ortaklık Dışında Aldığı Görevler": "SAS Tanıtım ve Medya Hizmetleri A.Ş. ve Punica Medya ve Sportif Hizmetler A.Ş.'nin kurucusu ve sahibidir.",
+      "Denetim, Muhasebe ve/veya Finans Alanında En Az 5 Yıllık Deneyime Sahip Olup Olmadığı": "Evet",
+      "Sermayedeki Payı (%)": "0",
+      "Temsil Ettiği Pay Grubu": "A"
+    },
+    {
+      "Adı-Soyadı": "İBRAHİM HATİPOĞLU",
+      "Tüzel Kişi Üye Adına Hareket Eden Kişi": "",
+      "Cinsiyeti": "Erkek",
+      "Görevi": "Yönetim Kurulu Başkan Vekili",
+      "Mesleği": "İş Adamı / İş Kadını",
+      "Yönetim Kuruluna İlk Seçilme Tarihi": "25/11/2022",
+      "İcrada Görevli Olup Olmadığı": "İcrada Görevli",
+      "Son 5 Yılda Ortaklıkta Üstlendiği Görevler": "-",
+      "Son Durum itibariyle Ortaklık Dışında Aldığı Görevler": "Egebant A.Ş. Yönetim Kurulu Başkan Yardımcısı ve Genel Müdürü olarak görev yapmaktadır.",
+      "Denetim, Muhasebe ve/veya Finans Alanında En Az 5 Yıllık Deneyime Sahip Olup Olmadığı": "Evet",
+      "Sermayedeki Payı (%)": "0",
+      "Temsil Ettiği Pay Grubu": "A"
+    },
+    {
+      "Adı-Soyadı": "EMİN İMANOV",
+      "Tüzel Kişi Üye Adına Hareket Eden Kişi": "",
+      "Cinsiyeti": "Erkek",
+      "Görevi": "Yönetim Kurulu Üyesi",
+      "Mesleği": "İş Adamı / İş Kadını",
+      "Yönetim Kuruluna İlk Seçilme Tarihi": "25/11/2022",
+      "İcrada Görevli Olup Olmadığı": "İcrada Görevli Değil",
+      "Son 5 Yılda Ortaklıkta Üstlendiği Görevler": "-",
+      "Son Durum itibariyle Ortaklık Dışında Aldığı Görevler": "BGN International Holding?te CEO olarak görev yapmaktadır.",
+      "Denetim, Muhasebe ve/veya Finans Alanında En Az 5 Yıllık Deneyime Sahip Olup Olmadığı": "Evet",
+      "Sermayedeki Payı (%)": "0",
+      "Temsil Ettiği Pay Grubu": "B"
+    },
+    {
+      "Adı-Soyadı": "EMİR ARAL",
+      "Tüzel Kişi Üye Adına Hareket Eden Kişi": "",
+      "Cinsiyeti": "Erkek",
+      "Görevi": "Yönetim Kurulu Üyesi",
+      "Mesleği": "İş Adamı / İş Kadını",
+      "Yönetim Kuruluna İlk Seçilme Tarihi": "18/12/2023",
+      "İcrada Görevli Olup Olmadığı": "İcrada Görevli Değil",
+      "Son 5 Yılda Ortaklıkta Üstlendiği Görevler": "Yönetim Kurulu Üyesi",
+      "Son Durum itibariyle Ortaklık Dışında Aldığı Görevler": "Mipo Teknoloji Anonim Şirketi Yönetim Kurulu Üyesidir.",
+      "Denetim, Muhasebe ve/veya Finans Alanında En Az 5 Yıllık Deneyime Sahip Olup Olmadığı": "Evet",
+      "Sermayedeki Payı (%)": "0",
+      "Temsil Ettiği Pay Grubu": "A"
+    },
+    {
+      "Adı-Soyadı": "ABDULLAH KAVUKCU",
+      "Tüzel Kişi Üye Adına Hareket Eden Kişi": "",
+      "Cinsiyeti": "Erkek",
+      "Görevi": "Yönetim Kurulu Başkan Vekili",
+      "Mesleği": "İş Adamı / İş Kadını",
+      "Yönetim Kuruluna İlk Seçilme Tarihi": "11/07/2024",
+      "İcrada Görevli Olup Olmadığı": "İcrada Görevli",
+      "Son 5 Yılda Ortaklıkta Üstlendiği Görevler": "",
+      "Son Durum itibariyle Ortaklık Dışında Aldığı Görevler": "DMR Unlu Mamüller Üretim Gıda Toptan Perakende İhracat A.Ş. ve 'Simit Sarayı Yat Tic A.Ş.' 'nin YK başkanı,'Kavukcu Yapı Sanayi ve İnşaat', 'SS Havacılık Hizmetleri AŞ' , 'SS Sehayat Turizm ve Tic A.Ş. şirketlerinin Kurucusu ve YK Başkanıdır.",
+      "Denetim, Muhasebe ve/veya Finans Alanında En Az 5 Yıllık Deneyime Sahip Olup Olmadığı": "Evet",
+      "Sermayedeki Payı (%)": "0",
+      "Temsil Ettiği Pay Grubu": "A"
+    },
+    {
+      "Adı-Soyadı": "FATİH SÜLEYMAN DEMİRCAN",
+      "Tüzel Kişi Üye Adına Hareket Eden Kişi": "",
+      "Cinsiyeti": "Erkek",
+      "Görevi": "Yönetim Kurulu Üyesi",
+      "Mesleği": "İş Adamı / İş Kadını",
+      "Yönetim Kuruluna İlk Seçilme Tarihi": "11/07/2024",
+      "İcrada Görevli Olup Olmadığı": "İcrada Görevli Değil",
+      "Son 5 Yılda Ortaklıkta Üstlendiği Görevler": "Bağımsız Yönetim Kurulu Üyesi",
+      "Son Durum itibariyle Ortaklık Dışında Aldığı Görevler": "İnşaat, mühendislik, sanayi, sağlık ve enerji alanlarında hizmet veren MBD Grup'ta yönetim kurulu üyesidir.",
+      "Denetim, Muhasebe ve/veya Finans Alanında En Az 5 Yıllık Deneyime Sahip Olup Olmadığı": "Evet",
+      "Sermayedeki Payı (%)": "0",
+      "Temsil Ettiği Pay Grubu": "A"
+    },
+    {
+      "Adı-Soyadı": "OSMAN KOCAMAN",
+      "Tüzel Kişi Üye Adına Hareket Eden Kişi": "",
+      "Cinsiyeti": "Erkek",
+      "Görevi": "Yönetim Kurulu Üyesi",
+      "Mesleği": "İş Adamı / İş Kadını",
+      "Yönetim Kuruluna İlk Seçilme Tarihi": "24/07/2024",
+      "İcrada Görevli Olup Olmadığı": "İcrada Görevli Değil",
+      "Son 5 Yılda Ortaklıkta Üstlendiği Görevler": "",
+      "Son Durum itibariyle Ortaklık Dışında Aldığı Görevler": "Kocaman Balıkçılık İhr ve İth AŞ.?de Murahhas Azadır",
+      "Denetim, Muhasebe ve/veya Finans Alanında En Az 5 Yıllık Deneyime Sahip Olup Olmadığı": "Evet",
+      "Sermayedeki Payı (%)": "0",
+      "Temsil Ettiği Pay Grubu": "B"
+    },
+    {
+      "Adı-Soyadı": "ÖMER SARIGÜL",
+      "Tüzel Kişi Üye Adına Hareket Eden Kişi": "",
+      "Cinsiyeti": "Erkek",
+      "Görevi": "Yönetim Kurulu Üyesi",
+      "Mesleği": "İş Adamı / İş Kadını",
+      "Yönetim Kuruluna İlk Seçilme Tarihi": "20/12/2024",
+      "İcrada Görevli Olup Olmadığı": "İcrada Görevli Değil",
+      "Son 5 Yılda Ortaklıkta Üstlendiği Görevler": "",
+      "Son Durum itibariyle Ortaklık Dışında Aldığı Görevler": "Ansa Otelcilik A.Ş - Yönetici, Spaces Group Gıda Turizm İth.İhr.Tic.Ltd.Şti Yönetici, Bab Medya İletişim Yayıncılık A.Ş - Yönetici, Vie Farm Gıda ve Hayvancılık A.Ş- Yönetici, Ömer Sarıgül-Meriç Gayrimenkul",
+      "Denetim, Muhasebe ve/veya Finans Alanında En Az 5 Yıllık Deneyime Sahip Olup Olmadığı": "Evet",
+      "Sermayedeki Payı (%)": "0",
+      "Temsil Ettiği Pay Grubu": "B"
+    },
+    {
+      "Adı-Soyadı": "MUZAFFER AYGÜN",
+      "Tüzel Kişi Üye Adına Hareket Eden Kişi": "",
+      "Cinsiyeti": "Erkek",
+      "Görevi": "Yönetim Kurulu Üyesi",
+      "Mesleği": "İş Adamı / İş Kadını",
+      "Yönetim Kuruluna İlk Seçilme Tarihi": "20/12/2024",
+      "İcrada Görevli Olup Olmadığı": "İcrada Görevli Değil",
+      "Son 5 Yılda Ortaklıkta Üstlendiği Görevler": "",
+      "Son Durum itibariyle Ortaklık Dışında Aldığı Görevler": "GÜNAYLAR OTEL İŞL.İNŞ.SAN. VE TİC.A.Ş. - Yönetim Kurulu Üyesi,AYGÜN TURİZM İNŞ.SAN.VE TİC.A.Ş. - Yönetim Kurulu Üyesi, GÜVERCİNLİK TURİZM TİCARET A.Ş. - Yönetim Kurulu Üyesi",
+      "Denetim, Muhasebe ve/veya Finans Alanında En Az 5 Yıllık Deneyime Sahip Olup Olmadığı": "Evet",
+      "Sermayedeki Payı (%)": "0",
+      "Temsil Ettiği Pay Grubu": "B"
+    },
+    {
+      "Adı-Soyadı": "MEHMET İSMAİL SARIKAYA",
+      "Tüzel Kişi Üye Adına Hareket Eden Kişi": "",
+      "Cinsiyeti": "Erkek",
+      "Görevi": "Yönetim Kurulu Üyesi",
+      "Mesleği": "İş Adamı / İş Kadını",
+      "Yönetim Kuruluna İlk Seçilme Tarihi": "20/12/2024",
+      "İcrada Görevli Olup Olmadığı": "İcrada Görevli Değil",
+      "Son 5 Yılda Ortaklıkta Üstlendiği Görevler": "",
+      "Son Durum itibariyle Ortaklık Dışında Aldığı Görevler": "Etiler Gıda Sanayi Ve Ticaret A.Ş. Yönetim Kurulu Başkanı, Hitut Turizm İnşaat İç Ve Dış Ticaret Ltd. Şti Yönetim Kurulu Üyesi,Etiler Gıda Sanayi Ve Ticaret A.Ş Beyoğlu Şubesi Yönetim Kurulu Başkanı",
+      "Denetim, Muhasebe ve/veya Finans Alanında En Az 5 Yıllık Deneyime Sahip Olup Olmadığı": "Evet",
+      "Sermayedeki Payı (%)": "0",
+      "Temsil Ettiği Pay Grubu": "B"
+    },
+    {
+      "Adı-Soyadı": "BORA İSMAİL BAHÇETEPE",
+      "Tüzel Kişi Üye Adına Hareket Eden Kişi": "",
+      "Cinsiyeti": "Erkek",
+      "Görevi": "Yönetim Kurulu Üyesi",
+      "Mesleği": "İş Adamı / İş Kadını",
+      "Yönetim Kuruluna İlk Seçilme Tarihi": "18/07/2025",
+      "İcrada Görevli Olup Olmadığı": "İcrada Görevli Değil",
+      "Son 5 Yılda Ortaklıkta Üstlendiği Görevler": "",
+      "Son Durum itibariyle Ortaklık Dışında Aldığı Görevler": "İthalat ile ilgilenmekte olup, Soğutma sektöründe mümessillikleri bulunmaktadır.",
+      "Denetim, Muhasebe ve/veya Finans Alanında En Az 5 Yıllık Deneyime Sahip Olup Olmadığı": "Evet",
+      "Sermayedeki Payı (%)": "0",
+      "Temsil Ettiği Pay Grubu": "A"
+    }
+  ],
+  "oy_haklari": {
+    "pairs": [
+      {
+        "alan": "Oy hakkında imtiyaz bulunup bulunmadığı",
+        "deger": "Hayır (No)"
+      },
+      {
+        "alan": "Oyda imtiyaz bulunuyorsa, imtiyazlı pay sahipleri ve oy oranları",
+        "deger": "A grubu paylar Şirket sermayesinin %25'ini oluşturmakta olup 16 kişiden oluşan Yönetim Kurulu Üye sayısının 15'ini aday gösterme hakkına sahiptir. B grubu paylar sermayenin %75'ini oluşturmakta olup imtiyaz bulunmamaktadır."
+      },
+      {
+        "alan": "En büyük pay sahibinin ortaklık oranı",
+        "deger": "%60,01"
+      }
+    ]
+  },
+  "katilim_4_7": {
+    "m1": "HAYIR",
+    "m2": "HAYIR",
+    "m3": "HAYIR",
+    "m4": "EVET",
+    "m5": "20,15",
+    "m6": "1,01",
+    "m7": "7,88"
+  }
+}

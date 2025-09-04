@@ -1,0 +1,325 @@
+{
+  "ticker": "TUPRS",
+  "summary": {
+    "internet_adresi": "www.tupras.com.tr",
+    "denetim_kurulusu": "GÜNEY BAĞIMSIZ DENETİM VE SERBEST MUHASEBECİ MALİ MÜŞAVİRLİK A.Ş.",
+    "sektoru_raw": "İMALATKİMYA İLAÇ PETROL LASTİK VE PLASTİK ÜRÜNLER",
+    "sektor_ana": "İMALAT",
+    "sektor_alt": "KİMYA İLAÇ PETROL LASTİK VE PLASTİK ÜRÜNLER",
+    "sektor_alt_list": [
+      "KİMYA İLAÇ PETROL LASTİK VE PLASTİK ÜRÜNLER"
+    ],
+    "islem_gordugu_pazar": "YILDIZ PAZAR",
+    "dahil_oldugu_endeksler": [
+      "BIST KATILIM 50",
+      "BIST SÜRDÜRÜLEBİLİRLİK 25",
+      "BIST TÜM",
+      "BIST BANKA DIŞI LİKİT 10",
+      "BIST 100",
+      "BIST 50",
+      "BIST 500",
+      "BIST KATILIM 30",
+      "BIST KİMYA, PETROL, PLASTİK",
+      "BIST KOCAELİ",
+      "BIST TEMETTÜ",
+      "BIST YILDIZ",
+      "BIST KATILIM TEMETTU",
+      "BIST KATILIM TUM",
+      "BIST SÜRDÜRÜLEBİLİRLİK",
+      "BIST 30",
+      "BIST TEMETTÜ 25",
+      "BIST KURUMSAL YÖNETİM",
+      "BIST SÜRDÜRÜLEBİLİRLİK KATILIM",
+      "BIST SINAİ",
+      "BIST KATILIM 100"
+    ]
+  },
+  "general": {
+    "merkez_adresi": "Gülbahar Mah. Büyükdere Cad. No: 101/A 34394 Şişli - İstanbul",
+    "uretim_tesis_adresleri": [],
+    "kotasyon_tarihi": "30/05/1991"
+  },
+  "ownership": {
+    "odenmis_cikarilmis_sermaye": null,
+    "kayitli_sermaye_tavani": null,
+    "sermaye_5ustu": [
+      {
+        "Ortağın Adı-Soyadı/Ticaret Ünvanı": "ENERJİ YATIRIMLARI AŞ",
+        "Sermayedeki Payı(TL)": "893.996.545,48",
+        "Sermayedeki Payı(%)": "46,4",
+        "Oy Hakkı Oranı(%)": "46,4"
+      },
+      {
+        "Ortağın Adı-Soyadı/Ticaret Ünvanı": "KOÇ HOLDİNG ANONİM ŞİRKETİ",
+        "Sermayedeki Payı(TL)": "122.297.870,88",
+        "Sermayedeki Payı(%)": "6,35",
+        "Oy Hakkı Oranı(%)": "6,35"
+      },
+      {
+        "Ortağın Adı-Soyadı/Ticaret Ünvanı": "DİĞER",
+        "Sermayedeki Payı(TL)": "910.501.181,64",
+        "Sermayedeki Payı(%)": "47,25",
+        "Oy Hakkı Oranı(%)": "47,25"
+      },
+      {
+        "Ortağın Adı-Soyadı/Ticaret Ünvanı": "TOPLAM",
+        "Sermayedeki Payı(TL)": "1.926.795.598",
+        "Sermayedeki Payı(%)": "100",
+        "Oy Hakkı Oranı(%)": "100"
+      }
+    ],
+    "fiili_dolasim_tutar_tl": "895.877.605,6",
+    "fiili_dolasim_oran": "46,5",
+    "bagli_ortakliklar": [
+      {
+        "Ticaret Ünvanı": "Ditaş Deniz İşletmeciliği ve Tankerciliği A.Ş.",
+        "Şirketin Faaliyet Konusu": "Ham petrol ve petrol ürünleri taşımacılığı",
+        "Ödenmiş/Çıkarılmış Sermayesi": "10.000.000",
+        "Şirketin Sermayedeki Payı": "7.998.000",
+        "Para Birimi": "TRY",
+        "Şirketin Sermayedeki Payı(%)": "79,98",
+        "Şirket ile Olan İlişkinin Niteliği": "Bağlı Ortaklık"
+      },
+      {
+        "Ticaret Ünvanı": "OPET Petrolcülük A.Ş.",
+        "Şirketin Faaliyet Konusu": "Petrol ürünleri perakende satışı",
+        "Ödenmiş/Çıkarılmış Sermayesi": "150.000.000",
+        "Şirketin Sermayedeki Payı": "62.505.007",
+        "Para Birimi": "TRY",
+        "Şirketin Sermayedeki Payı(%)": "41,67",
+        "Şirket ile Olan İlişkinin Niteliği": "İş Ortaklığı"
+      },
+      {
+        "Ticaret Ünvanı": "Körfez Ulaştırma A.Ş",
+        "Şirketin Faaliyet Konusu": "Hava, deniz, kara ve demiryolu taşımacılığı",
+        "Ödenmiş/Çıkarılmış Sermayesi": "250.000.000",
+        "Şirketin Sermayedeki Payı": "250.000.000",
+        "Para Birimi": "TRY",
+        "Şirketin Sermayedeki Payı(%)": "100",
+        "Şirket ile Olan İlişkinin Niteliği": "Bağlı Ortaklık"
+      },
+      {
+        "Ticaret Ünvanı": "Tüpraş Trading LTD",
+        "Şirketin Faaliyet Konusu": "Ham petrol ve petrol ürünleri ticareti",
+        "Ödenmiş/Çıkarılmış Sermayesi": "50.000.000",
+        "Şirketin Sermayedeki Payı": "50.000.000",
+        "Para Birimi": "USD",
+        "Şirketin Sermayedeki Payı(%)": "100",
+        "Şirket ile Olan İlişkinin Niteliği": "Bağlı Ortaklık"
+      },
+      {
+        "Ticaret Ünvanı": "Entek Elektrik Üretimi A.Ş.",
+        "Şirketin Faaliyet Konusu": "Elektrik enerjisi üretimi yapmak",
+        "Ödenmiş/Çıkarılmış Sermayesi": "950.000.000",
+        "Şirketin Sermayedeki Payı": "942.727.458",
+        "Para Birimi": "TRY",
+        "Şirketin Sermayedeki Payı(%)": "99,23",
+        "Şirket ile Olan İlişkinin Niteliği": "Bağlı Ortaklık"
+      },
+      {
+        "Ticaret Ünvanı": "Tüpraş Enerji Girişimleri A.Ş.",
+        "Şirketin Faaliyet Konusu": "Enerji Dönüşümüne Yönelik Her Türlü Teknoloji ve Girişim Yatırımları",
+        "Ödenmiş/Çıkarılmış Sermayesi": "390.000.000",
+        "Şirketin Sermayedeki Payı": "390.000.000",
+        "Para Birimi": "TRY",
+        "Şirketin Sermayedeki Payı(%)": "100",
+        "Şirket ile Olan İlişkinin Niteliği": "Bağlı Ortaklık"
+      }
+    ]
+  },
+  "board_members": [
+    {
+      "Adı-Soyadı": "MEHMET ÖMER KOÇ",
+      "Tüzel Kişi Üye Adına Hareket Eden Kişi": "",
+      "Cinsiyeti": "Erkek",
+      "Görevi": "Yönetim Kurulu Başkanı",
+      "Mesleği": "İş Adamı / İş Kadını",
+      "Yönetim Kuruluna İlk Seçilme Tarihi": "26/01/2006",
+      "İcrada Görevli Olup Olmadığı": "İcrada Görevli Değil",
+      "Son 5 Yılda Ortaklıkta Üstlendiği Görevler": "Yönetim Kurulu Başkanlığı",
+      "Son Durum itibariyle Ortaklık Dışında Aldığı Görevler": "Koç Holding A.Ş. Yönetim Kurulu Başkanı-Koç Grubu Şirketlerinde Yönetim Kurulu Üyelikleri",
+      "Denetim, Muhasebe ve/veya Finans Alanında En Az 5 Yıllık Deneyime Sahip Olup Olmadığı": "",
+      "Sermayedeki Payı (%)": "",
+      "Temsil Ettiği Pay Grubu": ""
+    },
+    {
+      "Adı-Soyadı": "YILDIRIM ALİ KOÇ",
+      "Tüzel Kişi Üye Adına Hareket Eden Kişi": "",
+      "Cinsiyeti": "Erkek",
+      "Görevi": "Yönetim Kurulu Başkan Vekili",
+      "Mesleği": "İş Adamı / İş Kadını",
+      "Yönetim Kuruluna İlk Seçilme Tarihi": "27/03/2009",
+      "İcrada Görevli Olup Olmadığı": "İcrada Görevli Değil",
+      "Son 5 Yılda Ortaklıkta Üstlendiği Görevler": "Yönetim Kurulu Başkan Vekili",
+      "Son Durum itibariyle Ortaklık Dışında Aldığı Görevler": "Koç Holding A.Ş. Yönetim Kurulu Başkan Vekili-Koç Grup Şirketleri Yönetim Kurulu Üyeliği",
+      "Denetim, Muhasebe ve/veya Finans Alanında En Az 5 Yıllık Deneyime Sahip Olup Olmadığı": "",
+      "Sermayedeki Payı (%)": "",
+      "Temsil Ettiği Pay Grubu": ""
+    },
+    {
+      "Adı-Soyadı": "MUSTAFA RAHMİ KOÇ",
+      "Tüzel Kişi Üye Adına Hareket Eden Kişi": "",
+      "Cinsiyeti": "Erkek",
+      "Görevi": "Yönetim Kurulu Üyesi",
+      "Mesleği": "İş Adamı / İş Kadını",
+      "Yönetim Kuruluna İlk Seçilme Tarihi": "04/06/2008",
+      "İcrada Görevli Olup Olmadığı": "İcrada Görevli Değil",
+      "Son 5 Yılda Ortaklıkta Üstlendiği Görevler": "Yönetim Kurulu Üyeliği",
+      "Son Durum itibariyle Ortaklık Dışında Aldığı Görevler": "Koç Holding A.Ş. Şeref Başkanı-Koç Grubu Şirketlerinde Yönetim Kurulu Üyelikleri",
+      "Denetim, Muhasebe ve/veya Finans Alanında En Az 5 Yıllık Deneyime Sahip Olup Olmadığı": "",
+      "Sermayedeki Payı (%)": "",
+      "Temsil Ettiği Pay Grubu": ""
+    },
+    {
+      "Adı-Soyadı": "SEMAHAT SEVİM ARSEL",
+      "Tüzel Kişi Üye Adına Hareket Eden Kişi": "",
+      "Cinsiyeti": "Kadın",
+      "Görevi": "Yönetim Kurulu Üyesi",
+      "Mesleği": "İş Adamı / İş Kadını",
+      "Yönetim Kuruluna İlk Seçilme Tarihi": "27/03/2009",
+      "İcrada Görevli Olup Olmadığı": "İcrada Görevli Değil",
+      "Son 5 Yılda Ortaklıkta Üstlendiği Görevler": "Yönetim Kurulu Üyeliği",
+      "Son Durum itibariyle Ortaklık Dışında Aldığı Görevler": "Koç Holding Şirketleri Yönetim Kurulu Üyelikleri",
+      "Denetim, Muhasebe ve/veya Finans Alanında En Az 5 Yıllık Deneyime Sahip Olup Olmadığı": "",
+      "Sermayedeki Payı (%)": "",
+      "Temsil Ettiği Pay Grubu": ""
+    },
+    {
+      "Adı-Soyadı": "LEVENT ÇAKIROĞLU",
+      "Tüzel Kişi Üye Adına Hareket Eden Kişi": "",
+      "Cinsiyeti": "Erkek",
+      "Görevi": "Yönetim Kurulu Üyesi",
+      "Mesleği": "Üst Düzey Yönetici",
+      "Yönetim Kuruluna İlk Seçilme Tarihi": "30/03/2015",
+      "İcrada Görevli Olup Olmadığı": "İcrada Görevli Değil",
+      "Son 5 Yılda Ortaklıkta Üstlendiği Görevler": "Yönetim Kurulu Üyeliği",
+      "Son Durum itibariyle Ortaklık Dışında Aldığı Görevler": "Koç Holding Şirketleri Yönetim Kurulu Üyelikleri/ Koç Holding CEO",
+      "Denetim, Muhasebe ve/veya Finans Alanında En Az 5 Yıllık Deneyime Sahip Olup Olmadığı": "",
+      "Sermayedeki Payı (%)": "",
+      "Temsil Ettiği Pay Grubu": ""
+    },
+    {
+      "Adı-Soyadı": "EROL MEMİOĞLU",
+      "Tüzel Kişi Üye Adına Hareket Eden Kişi": "",
+      "Cinsiyeti": "Erkek",
+      "Görevi": "Yönetim Kurulu Üyesi",
+      "Mesleği": "Üst Düzey Yönetici",
+      "Yönetim Kuruluna İlk Seçilme Tarihi": "26/01/2006",
+      "İcrada Görevli Olup Olmadığı": "İcrada Görevli Değil",
+      "Son 5 Yılda Ortaklıkta Üstlendiği Görevler": "Yönetim Kurulu Üyeliği",
+      "Son Durum itibariyle Ortaklık Dışında Aldığı Görevler": "Koç Holding Şirketleri Yönetim Kurulu Üyelikleri",
+      "Denetim, Muhasebe ve/veya Finans Alanında En Az 5 Yıllık Deneyime Sahip Olup Olmadığı": "",
+      "Sermayedeki Payı (%)": "",
+      "Temsil Ettiği Pay Grubu": ""
+    },
+    {
+      "Adı-Soyadı": "YAĞIZ EYÜBOĞLU",
+      "Tüzel Kişi Üye Adına Hareket Eden Kişi": "",
+      "Cinsiyeti": "Erkek",
+      "Görevi": "Yönetim Kurulu Üyesi",
+      "Mesleği": "Üst Düzey Yönetici",
+      "Yönetim Kuruluna İlk Seçilme Tarihi": "04/04/2016",
+      "İcrada Görevli Olup Olmadığı": "İcrada Görevli Değil",
+      "Son 5 Yılda Ortaklıkta Üstlendiği Görevler": "Yönetim Kurulu Üyeliği",
+      "Son Durum itibariyle Ortaklık Dışında Aldığı Görevler": "Koç Holding Şirketleri Yönetim Kurulu Üyelikleri, Enerji Grubu Başkanı",
+      "Denetim, Muhasebe ve/veya Finans Alanında En Az 5 Yıllık Deneyime Sahip Olup Olmadığı": "",
+      "Sermayedeki Payı (%)": "",
+      "Temsil Ettiği Pay Grubu": ""
+    },
+    {
+      "Adı-Soyadı": "AYKUT ÜMİT TAFTALI",
+      "Tüzel Kişi Üye Adına Hareket Eden Kişi": "",
+      "Cinsiyeti": "Erkek",
+      "Görevi": "Yönetim Kurulu Üyesi",
+      "Mesleği": "İş Adamı / İş Kadını",
+      "Yönetim Kuruluna İlk Seçilme Tarihi": "27/03/2025",
+      "İcrada Görevli Olup Olmadığı": "İcrada Görevli Değil",
+      "Son 5 Yılda Ortaklıkta Üstlendiği Görevler": "-",
+      "Son Durum itibariyle Ortaklık Dışında Aldığı Görevler": "Koç Holding Şirketleri Yönetim Kurulu Üyelikleri",
+      "Denetim, Muhasebe ve/veya Finans Alanında En Az 5 Yıllık Deneyime Sahip Olup Olmadığı": "",
+      "Sermayedeki Payı (%)": "",
+      "Temsil Ettiği Pay Grubu": ""
+    },
+    {
+      "Adı-Soyadı": "ZEKERİYA KAYA",
+      "Tüzel Kişi Üye Adına Hareket Eden Kişi": "",
+      "Cinsiyeti": "Erkek",
+      "Görevi": "Yönetim Kurulu Üyesi",
+      "Mesleği": "Üst Düzey Yönetici",
+      "Yönetim Kuruluna İlk Seçilme Tarihi": "01/09/2023",
+      "İcrada Görevli Olup Olmadığı": "İcrada Görevli Değil",
+      "Son 5 Yılda Ortaklıkta Üstlendiği Görevler": "Yönetim Kurulu Üyeliği",
+      "Son Durum itibariyle Ortaklık Dışında Aldığı Görevler": "Hazine ve Maliye Bakan Yardımcısı",
+      "Denetim, Muhasebe ve/veya Finans Alanında En Az 5 Yıllık Deneyime Sahip Olup Olmadığı": "Evet",
+      "Sermayedeki Payı (%)": "",
+      "Temsil Ettiği Pay Grubu": ""
+    },
+    {
+      "Adı-Soyadı": "ŞADAN KAPTANOĞLU DİKİCİ",
+      "Tüzel Kişi Üye Adına Hareket Eden Kişi": "",
+      "Cinsiyeti": "Kadın",
+      "Görevi": "Yönetim Kurulu Üyesi",
+      "Mesleği": "Üst Düzey Yönetici",
+      "Yönetim Kuruluna İlk Seçilme Tarihi": "01/04/2024",
+      "İcrada Görevli Olup Olmadığı": "İcrada Görevli Değil",
+      "Son 5 Yılda Ortaklıkta Üstlendiği Görevler": "Yönetim Kurulu Üyeliği",
+      "Son Durum itibariyle Ortaklık Dışında Aldığı Görevler": "Yönetim Kurulu Üyelikleri",
+      "Denetim, Muhasebe ve/veya Finans Alanında En Az 5 Yıllık Deneyime Sahip Olup Olmadığı": "Evet",
+      "Sermayedeki Payı (%)": "",
+      "Temsil Ettiği Pay Grubu": ""
+    },
+    {
+      "Adı-Soyadı": "MİNE YILDIZ GÜNAY",
+      "Tüzel Kişi Üye Adına Hareket Eden Kişi": "",
+      "Cinsiyeti": "Kadın",
+      "Görevi": "Yönetim Kurulu Üyesi",
+      "Mesleği": "Üst Düzey Yönetici",
+      "Yönetim Kuruluna İlk Seçilme Tarihi": "01/04/2024",
+      "İcrada Görevli Olup Olmadığı": "İcrada Görevli Değil",
+      "Son 5 Yılda Ortaklıkta Üstlendiği Görevler": "Yönetim Kurulu Üyeliği",
+      "Son Durum itibariyle Ortaklık Dışında Aldığı Görevler": "Yönetim Kurulu Üyelikleri",
+      "Denetim, Muhasebe ve/veya Finans Alanında En Az 5 Yıllık Deneyime Sahip Olup Olmadığı": "Evet",
+      "Sermayedeki Payı (%)": "",
+      "Temsil Ettiği Pay Grubu": ""
+    },
+    {
+      "Adı-Soyadı": "MEHMET CEM KOZLU",
+      "Tüzel Kişi Üye Adına Hareket Eden Kişi": "",
+      "Cinsiyeti": "Erkek",
+      "Görevi": "Yönetim Kurulu Üyesi",
+      "Mesleği": "Üst Düzey Yönetici",
+      "Yönetim Kuruluna İlk Seçilme Tarihi": "01/04/2024",
+      "İcrada Görevli Olup Olmadığı": "İcrada Görevli Değil",
+      "Son 5 Yılda Ortaklıkta Üstlendiği Görevler": "Yönetim Kurulu Üyeliği",
+      "Son Durum itibariyle Ortaklık Dışında Aldığı Görevler": "Yönetim Kurulu Üyelikleri",
+      "Denetim, Muhasebe ve/veya Finans Alanında En Az 5 Yıllık Deneyime Sahip Olup Olmadığı": "Evet",
+      "Sermayedeki Payı (%)": "",
+      "Temsil Ettiği Pay Grubu": ""
+    }
+  ],
+  "oy_haklari": {
+    "pairs": [
+      {
+        "alan": "Oy hakkında imtiyaz bulunup bulunmadığı",
+        "deger": "Evet (Yes)"
+      },
+      {
+        "alan": "Oyda imtiyaz bulunuyorsa, imtiyazlı pay sahipleri ve oy oranları",
+        "deger": "Tüpraş'ın payları A ve C grubu olarak ikiye ayrılmıştır. Olağan ve Olağanüstü Genel Kurul toplantılarında hazır bulunan pay sahipleri oy haklarını toplam paylarının nominal değeri ile orantılı olarak kullanırlar. Yönetim Kurulu üyelerinin seçiminde 1 üyenin Özelleştirme İdaresi Başkanlığına ait C grubu pay sahibinin gösterdiği adaydan seçilmesi zorunludur. Esas Sözleşmenin 10. Maddesinde belirtilen imtiyaza ilişkin hususlarda Yönetim Kurulu ve Genel Kurulda karar alınabilmesi Özelleştirme İdaresi Başkanlığına ait C grubu payın olumlu oy kullanmasına bağlıdır. Güncel ortaklık yapısına faaliyet raporunda yer verilmektedir."
+      },
+      {
+        "alan": "En büyük pay sahibinin ortaklık oranı",
+        "deger": "%46,40"
+      }
+    ]
+  },
+  "katilim_4_7": {
+    "m1": "HAYIR",
+    "m2": "HAYIR",
+    "m3": "HAYIR",
+    "m4": "HAYIR",
+    "m5": "2,38",
+    "m6": "13,24",
+    "m7": "8,17"
+  }
+}

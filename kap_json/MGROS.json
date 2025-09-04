@@ -1,0 +1,320 @@
+{
+  "ticker": "MGROS",
+  "summary": {
+    "internet_adresi": "www.migroskurumsal.com",
+    "denetim_kurulusu": "PwC BAĞIMSIZ DENETİM VE SERBEST MUHASEBECİ MALİ MÜŞAVİRLİK A.Ş",
+    "sektoru_raw": "TOPTAN VE PERAKENDE TİCARETPERAKENDE TİCARET",
+    "sektor_ana": "TOPTAN VE PERAKENDE TİCARET",
+    "sektor_alt": "PERAKENDE TİCARET",
+    "sektor_alt_list": [
+      "PERAKENDE TİCARET"
+    ],
+    "islem_gordugu_pazar": "YILDIZ PAZAR",
+    "dahil_oldugu_endeksler": [
+      "BIST 100",
+      "BIST SÜRDÜRÜLEBİLİRLİK",
+      "BIST TÜM",
+      "BIST TİCARET",
+      "BIST YILDIZ",
+      "BIST KURUMSAL YÖNETİM",
+      "BIST HİZMETLER",
+      "BIST TEMETTÜ",
+      "BIST TEMETTÜ 25",
+      "BIST 50",
+      "BIST 500",
+      "BIST 30",
+      "BIST SÜRDÜRÜLEBİLİRLİK 25"
+    ]
+  },
+  "general": {
+    "merkez_adresi": "Atatürk Mahallesi Turgut Özal Bulvarı No:7 34758 Ataşehir - İstanbul",
+    "uretim_tesis_adresleri": [],
+    "kotasyon_tarihi": null
+  },
+  "ownership": {
+    "odenmis_cikarilmis_sermaye": null,
+    "kayitli_sermaye_tavani": null,
+    "sermaye_5ustu": [
+      {
+        "Ortağın Adı-Soyadı/Ticaret Ünvanı": "MH PERAKENDECİLİK VETİCARET ANONİM ŞİRKETİ",
+        "Sermayedeki Payı(TL)": "89.046.058",
+        "Sermayedeki Payı(%)": "49,18",
+        "Oy Hakkı Oranı(%)": "49,18"
+      },
+      {
+        "Ortağın Adı-Soyadı/Ticaret Ünvanı": "DİĞER",
+        "Sermayedeki Payı(TL)": "92.008.175",
+        "Sermayedeki Payı(%)": "50,82",
+        "Oy Hakkı Oranı(%)": "50,82"
+      },
+      {
+        "Ortağın Adı-Soyadı/Ticaret Ünvanı": "TOPLAM",
+        "Sermayedeki Payı(TL)": "181.054.233",
+        "Sermayedeki Payı(%)": "100",
+        "Oy Hakkı Oranı(%)": "100"
+      }
+    ],
+    "fiili_dolasim_tutar_tl": "91.904.992,65",
+    "fiili_dolasim_oran": "50,76",
+    "bagli_ortakliklar": [
+      {
+        "Ticaret Ünvanı": "Moneypay Ödeme ve Elektronik Para Hizmetleri A.Ş.",
+        "Şirketin Faaliyet Konusu": "Ödeme ve elektronik para hizmetleri",
+        "Ödenmiş/Çıkarılmış Sermayesi": "148.000.000",
+        "Şirketin Sermayedeki Payı": "118.400.000",
+        "Para Birimi": "TRY",
+        "Şirketin Sermayedeki Payı(%)": "80",
+        "Şirket ile Olan İlişkinin Niteliği": "Bağlı Ortaklık"
+      },
+      {
+        "Ticaret Ünvanı": "Paket Lojistik ve Teknoloji A.Ş.",
+        "Şirketin Faaliyet Konusu": "Lojistik hizmetleri",
+        "Ödenmiş/Çıkarılmış Sermayesi": "559.440",
+        "Şirketin Sermayedeki Payı": "456.845",
+        "Para Birimi": "TRY",
+        "Şirketin Sermayedeki Payı(%)": "81,7",
+        "Şirket ile Olan İlişkinin Niteliği": "Bağlı Ortaklık"
+      },
+      {
+        "Ticaret Ünvanı": "Mimeda Medya Platform A.Ş.",
+        "Şirketin Faaliyet Konusu": "Medya",
+        "Ödenmiş/Çıkarılmış Sermayesi": "1.500.000",
+        "Şirketin Sermayedeki Payı": "1.500.000",
+        "Para Birimi": "TRY",
+        "Şirketin Sermayedeki Payı(%)": "100",
+        "Şirket ile Olan İlişkinin Niteliği": "Bağlı Ortaklık"
+      },
+      {
+        "Ticaret Ünvanı": "Dijital Platform Gıda Hizmetleri A.Ş.",
+        "Şirketin Faaliyet Konusu": "Online gıda perakendeciliği",
+        "Ödenmiş/Çıkarılmış Sermayesi": "10.000.000",
+        "Şirketin Sermayedeki Payı": "9.300.000",
+        "Para Birimi": "TRY",
+        "Şirketin Sermayedeki Payı(%)": "93",
+        "Şirket ile Olan İlişkinin Niteliği": "Bağlı Ortaklık"
+      },
+      {
+        "Ticaret Ünvanı": "Migen Enerji ve Elektrikli Araç Şarj Hizmetleri A.Ş.",
+        "Şirketin Faaliyet Konusu": "Elektrikli araç şarj hizmetleri",
+        "Ödenmiş/Çıkarılmış Sermayesi": "6.000.000",
+        "Şirketin Sermayedeki Payı": "6.000.000",
+        "Para Birimi": "TRY",
+        "Şirketin Sermayedeki Payı(%)": "100",
+        "Şirket ile Olan İlişkinin Niteliği": "Bağlı Ortaklık"
+      },
+      {
+        "Ticaret Ünvanı": "CRC Danışmanlık ve Organizasyon A.Ş.",
+        "Şirketin Faaliyet Konusu": "Paketli yemek üretimi",
+        "Ödenmiş/Çıkarılmış Sermayesi": "10.000.000",
+        "Şirketin Sermayedeki Payı": "3.000.000",
+        "Para Birimi": "TRY",
+        "Şirketin Sermayedeki Payı(%)": "30",
+        "Şirket ile Olan İlişkinin Niteliği": "İştirak"
+      },
+      {
+        "Ticaret Ünvanı": "Moneypay Finansal Teknoloji ve Yapay Zeka A.Ş.",
+        "Şirketin Faaliyet Konusu": "Kurumsal ödeme hizmetleri",
+        "Ödenmiş/Çıkarılmış Sermayesi": "70.000.000",
+        "Şirketin Sermayedeki Payı": "38.500.000",
+        "Para Birimi": "TRY",
+        "Şirketin Sermayedeki Payı(%)": "55",
+        "Şirket ile Olan İlişkinin Niteliği": "Bağlı Ortaklık"
+      }
+    ]
+  },
+  "board_members": [
+    {
+      "Adı-Soyadı": "KAMİLHAN SÜLEYMAN YAZICI",
+      "Tüzel Kişi Üye Adına Hareket Eden Kişi": "",
+      "Cinsiyeti": "Erkek",
+      "Görevi": "Yönetim Kurulu Başkanı",
+      "Mesleği": "Üst Düzey Yönetici",
+      "Yönetim Kuruluna İlk Seçilme Tarihi": "",
+      "İcrada Görevli Olup Olmadığı": "İcrada Görevli Değil",
+      "Son 5 Yılda Ortaklıkta Üstlendiği Görevler": "Yönetim Kurulu Başkan Yardımcısı",
+      "Son Durum itibariyle Ortaklık Dışında Aldığı Görevler": "Anadolu Grubu şirketlerinde Yönetim Kurulu Başkanlığı / üyeliği",
+      "Denetim, Muhasebe ve/veya Finans Alanında En Az 5 Yıllık Deneyime Sahip Olup Olmadığı": "Evet",
+      "Sermayedeki Payı (%)": "",
+      "Temsil Ettiği Pay Grubu": ""
+    },
+    {
+      "Adı-Soyadı": "TALİP ALTUĞ AKSOY",
+      "Tüzel Kişi Üye Adına Hareket Eden Kişi": "",
+      "Cinsiyeti": "Erkek",
+      "Görevi": "Yönetim Kurulu Başkan Yardımcısı",
+      "Mesleği": "Üst Düzey Yönetici",
+      "Yönetim Kuruluna İlk Seçilme Tarihi": "",
+      "İcrada Görevli Olup Olmadığı": "İcrada Görevli Değil",
+      "Son 5 Yılda Ortaklıkta Üstlendiği Görevler": "Yönetim Kurulu Üyesi",
+      "Son Durum itibariyle Ortaklık Dışında Aldığı Görevler": "Anadolu Grubu şirketlerinde Yönetim Kurulu Üyesi",
+      "Denetim, Muhasebe ve/veya Finans Alanında En Az 5 Yıllık Deneyime Sahip Olup Olmadığı": "Evet",
+      "Sermayedeki Payı (%)": "",
+      "Temsil Ettiği Pay Grubu": ""
+    },
+    {
+      "Adı-Soyadı": "İBRAHİM İZZET ÖZİLHAN",
+      "Tüzel Kişi Üye Adına Hareket Eden Kişi": "",
+      "Cinsiyeti": "Erkek",
+      "Görevi": "Yönetim Kurulu Üyesi",
+      "Mesleği": "Üst Düzey Yönetici",
+      "Yönetim Kuruluna İlk Seçilme Tarihi": "",
+      "İcrada Görevli Olup Olmadığı": "İcrada Görevli Değil",
+      "Son 5 Yılda Ortaklıkta Üstlendiği Görevler": "",
+      "Son Durum itibariyle Ortaklık Dışında Aldığı Görevler": "Anadolu Grubu şirketlerinde Yönetim Kurulu Üyesi",
+      "Denetim, Muhasebe ve/veya Finans Alanında En Az 5 Yıllık Deneyime Sahip Olup Olmadığı": "Evet",
+      "Sermayedeki Payı (%)": "",
+      "Temsil Ettiği Pay Grubu": ""
+    },
+    {
+      "Adı-Soyadı": "BURAK BAŞARIR",
+      "Tüzel Kişi Üye Adına Hareket Eden Kişi": "",
+      "Cinsiyeti": "Erkek",
+      "Görevi": "Yönetim Kurulu Üyesi",
+      "Mesleği": "Üst Düzey Yönetici",
+      "Yönetim Kuruluna İlk Seçilme Tarihi": "",
+      "İcrada Görevli Olup Olmadığı": "İcrada Görevli Değil",
+      "Son 5 Yılda Ortaklıkta Üstlendiği Görevler": "Yönetim Kurulu Üyesi",
+      "Son Durum itibariyle Ortaklık Dışında Aldığı Görevler": "AG Anadolu Grubu Holding A.Ş. İcra Başkanı. Anadolu Grubu şirketlerinde Yönetim Kurulu Üyeliği",
+      "Denetim, Muhasebe ve/veya Finans Alanında En Az 5 Yıllık Deneyime Sahip Olup Olmadığı": "Evet",
+      "Sermayedeki Payı (%)": "",
+      "Temsil Ettiği Pay Grubu": ""
+    },
+    {
+      "Adı-Soyadı": "MEHMET HURŞİT ZORLU",
+      "Tüzel Kişi Üye Adına Hareket Eden Kişi": "",
+      "Cinsiyeti": "Erkek",
+      "Görevi": "Yönetim Kurulu Üyesi",
+      "Mesleği": "Üst Düzey Yönetici",
+      "Yönetim Kuruluna İlk Seçilme Tarihi": "",
+      "İcrada Görevli Olup Olmadığı": "İcrada Görevli Değil",
+      "Son 5 Yılda Ortaklıkta Üstlendiği Görevler": "Yönetim Kurulu Üyesi",
+      "Son Durum itibariyle Ortaklık Dışında Aldığı Görevler": "Anadolu Grubu şirketlerinde Yönetim Kurulu Üyeliği",
+      "Denetim, Muhasebe ve/veya Finans Alanında En Az 5 Yıllık Deneyime Sahip Olup Olmadığı": "Evet",
+      "Sermayedeki Payı (%)": "",
+      "Temsil Ettiği Pay Grubu": ""
+    },
+    {
+      "Adı-Soyadı": "ESEL YILDIZ ÇEKİN",
+      "Tüzel Kişi Üye Adına Hareket Eden Kişi": "",
+      "Cinsiyeti": "Kadın",
+      "Görevi": "Yönetim Kurulu Üyesi",
+      "Mesleği": "Üst Düzey Yönetici",
+      "Yönetim Kuruluna İlk Seçilme Tarihi": "",
+      "İcrada Görevli Olup Olmadığı": "İcrada Görevli Değil",
+      "Son 5 Yılda Ortaklıkta Üstlendiği Görevler": "Yönetim Kurulu Üyesi",
+      "Son Durum itibariyle Ortaklık Dışında Aldığı Görevler": "Coca-Cola Satış ve Dağıtım A.Ş. Yönetim Kurulu üyesi, Coca-Cola İçecek A.Ş. Kurumsal Yönetim Komitesi üyesi, Fiba Perakende Yönetim Kurulu üyesi",
+      "Denetim, Muhasebe ve/veya Finans Alanında En Az 5 Yıllık Deneyime Sahip Olup Olmadığı": "Evet",
+      "Sermayedeki Payı (%)": "",
+      "Temsil Ettiği Pay Grubu": ""
+    },
+    {
+      "Adı-Soyadı": "RASİH ENGİN AKÇAKOCA",
+      "Tüzel Kişi Üye Adına Hareket Eden Kişi": "",
+      "Cinsiyeti": "Erkek",
+      "Görevi": "Yönetim Kurulu Üyesi",
+      "Mesleği": "Üst Düzey Yönetici",
+      "Yönetim Kuruluna İlk Seçilme Tarihi": "",
+      "İcrada Görevli Olup Olmadığı": "İcrada Görevli Değil",
+      "Son 5 Yılda Ortaklıkta Üstlendiği Görevler": "Yönetim Kurulu Üyesi",
+      "Son Durum itibariyle Ortaklık Dışında Aldığı Görevler": "Anadolu Grubu Şirketlerinde Yönetim Kurulu Üyeliği",
+      "Denetim, Muhasebe ve/veya Finans Alanında En Az 5 Yıllık Deneyime Sahip Olup Olmadığı": "Evet",
+      "Sermayedeki Payı (%)": "",
+      "Temsil Ettiği Pay Grubu": ""
+    },
+    {
+      "Adı-Soyadı": "ÖMER ÖZGÜR TORT",
+      "Tüzel Kişi Üye Adına Hareket Eden Kişi": "",
+      "Cinsiyeti": "Erkek",
+      "Görevi": "Yönetim Kurulu Üyesi",
+      "Mesleği": "Üst Düzey Yönetici",
+      "Yönetim Kuruluna İlk Seçilme Tarihi": "",
+      "İcrada Görevli Olup Olmadığı": "İcrada Görevli",
+      "Son 5 Yılda Ortaklıkta Üstlendiği Görevler": "Yönetim Kurulu Üyesi ve İcra Başkanı (CEO)",
+      "Son Durum itibariyle Ortaklık Dışında Aldığı Görevler": "Moneypay Ödeme ve Elektronik Para Hizmetleri A.Ş., Mimeda Medya Platform A.Ş., Dijital Platform Gıda Hizmetleri A.Ş., Paket Lojistik ve Teknoloji A.Ş. ve Migen Enerji ve Elektrikli Araç Şarj Hizmetleri A.Ş., CRC Danışmanlık ve Organizasyon A.Ş., Moneypay Finansal Teknoloji ve Yapay Zeka A.Ş. Yönetim Kurulu Başkanı, The Consumer Goods Forum Yönetim Kurulu üyesi, GS1 Global ve GS1 Türkiye Yönetim Kurulu üyesi, Gıda Perakendecileri Derneği (GPD) Başkan Yardımcısı, Türkiye Alışveriş Merkezleri ve Perakendeciler Federasyonu (TAMPF) Yönetim Kurulu üyesi",
+      "Denetim, Muhasebe ve/veya Finans Alanında En Az 5 Yıllık Deneyime Sahip Olup Olmadığı": "Evet",
+      "Sermayedeki Payı (%)": "",
+      "Temsil Ettiği Pay Grubu": ""
+    },
+    {
+      "Adı-Soyadı": "EMRE EKMEKÇİ",
+      "Tüzel Kişi Üye Adına Hareket Eden Kişi": "",
+      "Cinsiyeti": "Erkek",
+      "Görevi": "Yönetim Kurulu Üyesi",
+      "Mesleği": "Üst Düzey Yönetici",
+      "Yönetim Kuruluna İlk Seçilme Tarihi": "",
+      "İcrada Görevli Olup Olmadığı": "İcrada Görevli Değil",
+      "Son 5 Yılda Ortaklıkta Üstlendiği Görevler": "Yönetim Kurulu Bağımsız Üyesi",
+      "Son Durum itibariyle Ortaklık Dışında Aldığı Görevler": "Bank of Georgia - Digital Area Bağımsız Yönetim Kurulu Üyesi, Mirakl Global Danışma Kurulu üyeliği",
+      "Denetim, Muhasebe ve/veya Finans Alanında En Az 5 Yıllık Deneyime Sahip Olup Olmadığı": "Hayır",
+      "Sermayedeki Payı (%)": "",
+      "Temsil Ettiği Pay Grubu": ""
+    },
+    {
+      "Adı-Soyadı": "BARIŞ TAN",
+      "Tüzel Kişi Üye Adına Hareket Eden Kişi": "",
+      "Cinsiyeti": "Erkek",
+      "Görevi": "Yönetim Kurulu Üyesi",
+      "Mesleği": "Akademisyen",
+      "Yönetim Kuruluna İlk Seçilme Tarihi": "",
+      "İcrada Görevli Olup Olmadığı": "İcrada Görevli Değil",
+      "Son 5 Yılda Ortaklıkta Üstlendiği Görevler": "Yönetim Kurulu Bağımsız Üyesi",
+      "Son Durum itibariyle Ortaklık Dışında Aldığı Görevler": "Coca Cola İçecek A.Ş. ve Anadolu Isuzu Otomotiv Sanayi ve Ticaret A.Ş.'de bağımsız Yönetim Kurulu üyesi, Özyeğin Üniversitesi Rektörü",
+      "Denetim, Muhasebe ve/veya Finans Alanında En Az 5 Yıllık Deneyime Sahip Olup Olmadığı": "Evet",
+      "Sermayedeki Payı (%)": "",
+      "Temsil Ettiği Pay Grubu": ""
+    },
+    {
+      "Adı-Soyadı": "BEKİR AĞIRDIR",
+      "Tüzel Kişi Üye Adına Hareket Eden Kişi": "",
+      "Cinsiyeti": "Erkek",
+      "Görevi": "Yönetim Kurulu Üyesi",
+      "Mesleği": "Üst Düzey Yönetici",
+      "Yönetim Kuruluna İlk Seçilme Tarihi": "",
+      "İcrada Görevli Olup Olmadığı": "İcrada Görevli Değil",
+      "Son 5 Yılda Ortaklıkta Üstlendiği Görevler": "Yönetim Kurulu Bağımsız Üyesi",
+      "Son Durum itibariyle Ortaklık Dışında Aldığı Görevler": "Anadolu Efes Biracılık ve Malt Sanayii A.Ş., AG Anadolu Grubu Holding A.Ş. bağımsız Yönetim Kurulu Üyesi, Türkiye Ekonomik ve Sosyal Etüdler Vakfı (TESEV) Yönetim Kurulu Başkan Yardımcısı",
+      "Denetim, Muhasebe ve/veya Finans Alanında En Az 5 Yıllık Deneyime Sahip Olup Olmadığı": "Hayır",
+      "Sermayedeki Payı (%)": "",
+      "Temsil Ettiği Pay Grubu": ""
+    },
+    {
+      "Adı-Soyadı": "UĞUR BAYAR",
+      "Tüzel Kişi Üye Adına Hareket Eden Kişi": "",
+      "Cinsiyeti": "Erkek",
+      "Görevi": "Yönetim Kurulu Üyesi",
+      "Mesleği": "Üst Düzey Yönetici",
+      "Yönetim Kuruluna İlk Seçilme Tarihi": "",
+      "İcrada Görevli Olup Olmadığı": "İcrada Görevli Değil",
+      "Son 5 Yılda Ortaklıkta Üstlendiği Görevler": "Yönetim Kurulu Bağımsız Üyesi",
+      "Son Durum itibariyle Ortaklık Dışında Aldığı Görevler": "Adel Kalemcilik Ticaret ve Sanayi A.Ş. bağımsız Yönetim Kurulu üyesi, Deniz Yaşamını Koruma Derneği Yönetim Kurulu üyesi, Tekfen Teknoloji Yatırım ve Tic. A.Ş.de Yönetim Kurulu Başkanı",
+      "Denetim, Muhasebe ve/veya Finans Alanında En Az 5 Yıllık Deneyime Sahip Olup Olmadığı": "Evet",
+      "Sermayedeki Payı (%)": "",
+      "Temsil Ettiği Pay Grubu": ""
+    }
+  ],
+  "oy_haklari": {
+    "pairs": [
+      {
+        "alan": "Oy hakkında imtiyaz bulunup bulunmadığı",
+        "deger": "Hayır (No)"
+      },
+      {
+        "alan": "Oyda imtiyaz bulunuyorsa, imtiyazlı pay sahipleri ve oy oranları",
+        "deger": "-"
+      },
+      {
+        "alan": "En büyük pay sahibinin ortaklık oranı",
+        "deger": "%49,18"
+      }
+    ]
+  },
+  "katilim_4_7": {
+    "m1": "EVET",
+    "m2": "HAYIR",
+    "m3": "HAYIR",
+    "m4": "EVET",
+    "m5": "9,57",
+    "m6": "8,79",
+    "m7": "0,37"
+  }
+}

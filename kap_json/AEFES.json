@@ -1,0 +1,330 @@
+{
+  "ticker": "AEFES",
+  "summary": {
+    "internet_adresi": "www.anadoluefes.com",
+    "denetim_kurulusu": "PwC BAĞIMSIZ DENETİM VE SERBEST MUHASEBECİ MALİ MÜŞAVİRLİK A.Ş",
+    "sektoru_raw": "İMALATGIDA, İÇECEK VE TÜTÜN",
+    "sektor_ana": "İMALAT",
+    "sektor_alt": "GIDA, İÇECEK VE TÜTÜN",
+    "sektor_alt_list": [
+      "GIDA, İÇECEK VE TÜTÜN"
+    ],
+    "islem_gordugu_pazar": "YILDIZ PAZAR",
+    "dahil_oldugu_endeksler": [
+      "BIST 100",
+      "BIST 50",
+      "BIST YILDIZ",
+      "BIST 500",
+      "BIST TÜM",
+      "BIST 30",
+      "BIST TEMETTÜ",
+      "BIST SÜRDÜRÜLEBİLİRLİK 25",
+      "BIST KURUMSAL YÖNETİM",
+      "BIST İSTANBUL",
+      "BIST GIDA, İÇECEK",
+      "BIST SINAİ",
+      "BIST SÜRDÜRÜLEBİLİRLİK"
+    ]
+  },
+  "general": {
+    "merkez_adresi": "Fatih Sultan Mehmet Mah. Balkan Cad. No:58 Buyaka E Blok Tepeüstü Ümraniye 34771 İstanbul- TÜRKİYE",
+    "uretim_tesis_adresleri": [],
+    "kotasyon_tarihi": "28/07/2000"
+  },
+  "ownership": {
+    "odenmis_cikarilmis_sermaye": null,
+    "kayitli_sermaye_tavani": null,
+    "sermaye_5ustu": [
+      {
+        "Ortağın Adı-Soyadı/Ticaret Ünvanı": "AG ANADOLU GRUBU HOLDİNG ANONİM ŞİRKETİ",
+        "Sermayedeki Payı(TL)": "2.548.911.568,84",
+        "Sermayedeki Payı(%)": "43,05",
+        "Oy Hakkı Oranı(%)": "43,05"
+      },
+      {
+        "Ortağın Adı-Soyadı/Ticaret Ünvanı": "AB INBEV HARMONY LİMİTED",
+        "Sermayedeki Payı(TL)": "1.421.052.630",
+        "Sermayedeki Payı(%)": "24",
+        "Oy Hakkı Oranı(%)": "24"
+      },
+      {
+        "Ortağın Adı-Soyadı/Ticaret Ünvanı": "DİĞER",
+        "Sermayedeki Payı(TL)": "1.951.088.431,16",
+        "Sermayedeki Payı(%)": "32,95",
+        "Oy Hakkı Oranı(%)": "32,95"
+      },
+      {
+        "Ortağın Adı-Soyadı/Ticaret Ünvanı": "TOPLAM",
+        "Sermayedeki Payı(TL)": "5.921.052.630",
+        "Sermayedeki Payı(%)": "100",
+        "Oy Hakkı Oranı(%)": "100"
+      }
+    ],
+    "fiili_dolasim_tutar_tl": "1.940.928.517,48",
+    "fiili_dolasim_oran": "32,78",
+    "bagli_ortakliklar": [
+      {
+        "Ticaret Ünvanı": "Efes Pazarlama ve Dağıtım Tic. A.Ş.",
+        "Şirketin Faaliyet Konusu": "Türkiye - pazarlama satış ve dağıtım şirketi",
+        "Ödenmiş/Çıkarılmış Sermayesi": "750.000.000",
+        "Şirketin Sermayedeki Payı": "750.000.000",
+        "Para Birimi": "TRY",
+        "Şirketin Sermayedeki Payı(%)": "100",
+        "Şirket ile Olan İlişkinin Niteliği": "Anadolu Efes'in ürettiği ve ithal ettiği ürünlerin pazarlama, satış ve dağıtımını yapar."
+      },
+      {
+        "Ticaret Ünvanı": "Efes Breweries International B.V.",
+        "Şirketin Faaliyet Konusu": "Yurtdışı bira faaliyetlerini yönlendiren holding şirketi",
+        "Ödenmiş/Çıkarılmış Sermayesi": "2.058.515.000",
+        "Şirketin Sermayedeki Payı": "2.058.515.000",
+        "Para Birimi": "EUR",
+        "Şirketin Sermayedeki Payı(%)": "100",
+        "Şirket ile Olan İlişkinin Niteliği": "Yurtdışı bira faaliyetlerini yönetir"
+      },
+      {
+        "Ticaret Ünvanı": "Coca Cola İçecek A.Ş. (Efektif)",
+        "Şirketin Faaliyet Konusu": "Türkiye ve Yurtdışında Coca-Cola ürünlerinin üretimi",
+        "Ödenmiş/Çıkarılmış Sermayesi": "2.798.078.602",
+        "Şirketin Sermayedeki Payı": "1.406.188.949,79",
+        "Para Birimi": "TRY",
+        "Şirketin Sermayedeki Payı(%)": "50,26",
+        "Şirket ile Olan İlişkinin Niteliği": "İştirak ilişkisi"
+      },
+      {
+        "Ticaret Ünvanı": "Coca Cola Satış ve Dağıtım A.Ş. (Efektif)",
+        "Şirketin Faaliyet Konusu": "Coca-Cola ürünlerinin satış ve dağıtımı",
+        "Ödenmiş/Çıkarılmış Sermayesi": "2.998.566,01",
+        "Şirketin Sermayedeki Payı": "1.506.820,14",
+        "Para Birimi": "TRY",
+        "Şirketin Sermayedeki Payı(%)": "50,25",
+        "Şirket ile Olan İlişkinin Niteliği": "İştirak ilişkisi"
+      },
+      {
+        "Ticaret Ünvanı": "Cypex Co.Ltd.",
+        "Şirketin Faaliyet Konusu": "KKTC'de bira, pazarlama, satış ve dağıtımı",
+        "Ödenmiş/Çıkarılmış Sermayesi": "1.054.900",
+        "Şirketin Sermayedeki Payı": "1.054.795",
+        "Para Birimi": "TRY",
+        "Şirketin Sermayedeki Payı(%)": "99,99",
+        "Şirket ile Olan İlişkinin Niteliği": "KKTC'de Anadolu Efes'in ürünlerinin pazarlama. satış ve dağıtımını yapar."
+      },
+      {
+        "Ticaret Ünvanı": "Efes Deutschland GMBH",
+        "Şirketin Faaliyet Konusu": "Bira pazarlaması ve dağıtımı",
+        "Ödenmiş/Çıkarılmış Sermayesi": "4.100.000",
+        "Şirketin Sermayedeki Payı": "4.100.000",
+        "Para Birimi": "EUR",
+        "Şirketin Sermayedeki Payı(%)": "100",
+        "Şirket ile Olan İlişkinin Niteliği": "Almanya'da bira pazarlama ve dağıtımı yapar."
+      },
+      {
+        "Ticaret Ünvanı": "AEP Anadolu Etap Penkon Gıda ve Tarım Ürün. San.Ve Tic. A.Ş.",
+        "Şirketin Faaliyet Konusu": "Meyve suyu konsantresi ve püresi üretimi ve satışı ve taze meyve satışı",
+        "Ödenmiş/Çıkarılmış Sermayesi": "50.000.000",
+        "Şirketin Sermayedeki Payı": "41.615.976,43",
+        "Para Birimi": "TRY",
+        "Şirketin Sermayedeki Payı(%)": "83,23",
+        "Şirket ile Olan İlişkinin Niteliği": "Müşterek Yönetime Tabi Ortaklık"
+      },
+      {
+        "Ticaret Ünvanı": "Anadolu Efes Alkollü İçecekler Yatırım ve Ticaret A.Ş.",
+        "Şirketin Faaliyet Konusu": "İdari Faaliyetler",
+        "Ödenmiş/Çıkarılmış Sermayesi": "500.000",
+        "Şirketin Sermayedeki Payı": "500.000",
+        "Para Birimi": "TRY",
+        "Şirketin Sermayedeki Payı(%)": "100",
+        "Şirket ile Olan İlişkinin Niteliği": "Anadolu Efes' in girişimlerine, yatırımlarına ve bağlı iştiraklerine yönetim hizmeti sağlamaktadır."
+      },
+      {
+        "Ticaret Ünvanı": "Anadolu Efes Uluslararası Alkollü İçecek Yatırımları A.Ş.",
+        "Şirketin Faaliyet Konusu": "İdari Faaliyetler",
+        "Ödenmiş/Çıkarılmış Sermayesi": "13.270.000",
+        "Şirketin Sermayedeki Payı": "13.270.000",
+        "Para Birimi": "TRY",
+        "Şirketin Sermayedeki Payı(%)": "100",
+        "Şirket ile Olan İlişkinin Niteliği": "Anadolu Efes' in girişimlerine, yatırımlarına ve bağlı iştiraklerine yönetim hizmeti sağlamaktadır."
+      }
+    ]
+  },
+  "board_members": [
+    {
+      "Adı-Soyadı": "KAMİLHAN SÜLEYMAN YAZICI",
+      "Tüzel Kişi Üye Adına Hareket Eden Kişi": "",
+      "Cinsiyeti": "Erkek",
+      "Görevi": "Yönetim Kurulu Başkanı",
+      "Mesleği": "İşletme ve Yönetim Meslek Profesyoneli",
+      "Yönetim Kuruluna İlk Seçilme Tarihi": "27/04/2017",
+      "İcrada Görevli Olup Olmadığı": "İcrada Görevli Değil",
+      "Son 5 Yılda Ortaklıkta Üstlendiği Görevler": "",
+      "Son Durum itibariyle Ortaklık Dışında Aldığı Görevler": "Anadolu Grubu şirketlerinde Yönetim Kurulu Başkanı/Üyesi",
+      "Denetim, Muhasebe ve/veya Finans Alanında En Az 5 Yıllık Deneyime Sahip Olup Olmadığı": "Evet",
+      "Sermayedeki Payı (%)": "",
+      "Temsil Ettiği Pay Grubu": ""
+    },
+    {
+      "Adı-Soyadı": "TUĞBAN İZZET AKSOY",
+      "Tüzel Kişi Üye Adına Hareket Eden Kişi": "",
+      "Cinsiyeti": "Erkek",
+      "Görevi": "Yönetim Kurulu Başkan Vekili",
+      "Mesleği": "İşletme ve Yönetim Meslek Profesyoneli",
+      "Yönetim Kuruluna İlk Seçilme Tarihi": "18/04/2023",
+      "İcrada Görevli Olup Olmadığı": "İcrada Görevli Değil",
+      "Son 5 Yılda Ortaklıkta Üstlendiği Görevler": "",
+      "Son Durum itibariyle Ortaklık Dışında Aldığı Görevler": "Anadolu Grubu şirketlerinde Yönetim Kurulu Üyesi",
+      "Denetim, Muhasebe ve/veya Finans Alanında En Az 5 Yıllık Deneyime Sahip Olup Olmadığı": "Evet",
+      "Sermayedeki Payı (%)": "",
+      "Temsil Ettiği Pay Grubu": ""
+    },
+    {
+      "Adı-Soyadı": "JASON GERARD WARNER",
+      "Tüzel Kişi Üye Adına Hareket Eden Kişi": "",
+      "Cinsiyeti": "Erkek",
+      "Görevi": "Yönetim Kurulu Üyesi",
+      "Mesleği": "İşletme ve Yönetim Meslek Profesyoneli",
+      "Yönetim Kuruluna İlk Seçilme Tarihi": "30/04/2019",
+      "İcrada Görevli Olup Olmadığı": "İcrada Görevli Değil",
+      "Son 5 Yılda Ortaklıkta Üstlendiği Görevler": "",
+      "Son Durum itibariyle Ortaklık Dışında Aldığı Görevler": "AB InBev Avrupa Bölgesi Başkanı",
+      "Denetim, Muhasebe ve/veya Finans Alanında En Az 5 Yıllık Deneyime Sahip Olup Olmadığı": "Evet",
+      "Sermayedeki Payı (%)": "",
+      "Temsil Ettiği Pay Grubu": ""
+    },
+    {
+      "Adı-Soyadı": "İBRAHİM İZZET ÖZİLHAN",
+      "Tüzel Kişi Üye Adına Hareket Eden Kişi": "",
+      "Cinsiyeti": "Erkek",
+      "Görevi": "Yönetim Kurulu Üyesi",
+      "Mesleği": "Üst Düzey Yönetici",
+      "Yönetim Kuruluna İlk Seçilme Tarihi": "14/04/2025",
+      "İcrada Görevli Olup Olmadığı": "İcrada Görevli Değil",
+      "Son 5 Yılda Ortaklıkta Üstlendiği Görevler": "",
+      "Son Durum itibariyle Ortaklık Dışında Aldığı Görevler": "TÜSİAD Yönetim Kurulu Üyesi, TÜSİAD Tarım, Gıda ve Hizmetler Yuvarlak Masa Başkanı, Anadolu Grubu şirketlerinde Yönetim Kurulu Üyesi",
+      "Denetim, Muhasebe ve/veya Finans Alanında En Az 5 Yıllık Deneyime Sahip Olup Olmadığı": "Evet",
+      "Sermayedeki Payı (%)": "",
+      "Temsil Ettiği Pay Grubu": ""
+    },
+    {
+      "Adı-Soyadı": "RASİH ENGİN AKÇAKOCA",
+      "Tüzel Kişi Üye Adına Hareket Eden Kişi": "",
+      "Cinsiyeti": "Erkek",
+      "Görevi": "Yönetim Kurulu Üyesi",
+      "Mesleği": "İşletme ve Yönetim Meslek Profesyoneli",
+      "Yönetim Kuruluna İlk Seçilme Tarihi": "28/04/2020",
+      "İcrada Görevli Olup Olmadığı": "İcrada Görevli Değil",
+      "Son 5 Yılda Ortaklıkta Üstlendiği Görevler": "",
+      "Son Durum itibariyle Ortaklık Dışında Aldığı Görevler": "Anadolu Grubu şirketlerinde Yönetim Kurulu Üyesi",
+      "Denetim, Muhasebe ve/veya Finans Alanında En Az 5 Yıllık Deneyime Sahip Olup Olmadığı": "Evet",
+      "Sermayedeki Payı (%)": "",
+      "Temsil Ettiği Pay Grubu": ""
+    },
+    {
+      "Adı-Soyadı": "MEHMET HURŞİT ZORLU",
+      "Tüzel Kişi Üye Adına Hareket Eden Kişi": "",
+      "Cinsiyeti": "Erkek",
+      "Görevi": "Yönetim Kurulu Üyesi",
+      "Mesleği": "İşletme ve Yönetim Meslek Profesyoneli",
+      "Yönetim Kuruluna İlk Seçilme Tarihi": "17/04/2024",
+      "İcrada Görevli Olup Olmadığı": "İcrada Görevli Değil",
+      "Son 5 Yılda Ortaklıkta Üstlendiği Görevler": "Anadolu Grubu İcra Başkanı",
+      "Son Durum itibariyle Ortaklık Dışında Aldığı Görevler": "Anadolu Grubu şirketlerinde Yönetim Kurulu Üyesi, Türkiye Yatırımcı İlişkileri Derneği (TÜYİD)de Yüksek İstişare Konseyi Üyesi",
+      "Denetim, Muhasebe ve/veya Finans Alanında En Az 5 Yıllık Deneyime Sahip Olup Olmadığı": "Evet",
+      "Sermayedeki Payı (%)": "",
+      "Temsil Ettiği Pay Grubu": ""
+    },
+    {
+      "Adı-Soyadı": "BELİZ CHAPPUIE",
+      "Tüzel Kişi Üye Adına Hareket Eden Kişi": "",
+      "Cinsiyeti": "Kadın",
+      "Görevi": "Yönetim Kurulu Üyesi",
+      "Mesleği": "İşletme ve Yönetim Meslek Profesyoneli",
+      "Yönetim Kuruluna İlk Seçilme Tarihi": "17/04/2024",
+      "İcrada Görevli Olup Olmadığı": "İcrada Görevli Değil",
+      "Son 5 Yılda Ortaklıkta Üstlendiği Görevler": "",
+      "Son Durum itibariyle Ortaklık Dışında Aldığı Görevler": "Kaliforniya Eyaleti Kamu Çalışanları Emeklilik Sisteminde Yönetici",
+      "Denetim, Muhasebe ve/veya Finans Alanında En Az 5 Yıllık Deneyime Sahip Olup Olmadığı": "Evet",
+      "Sermayedeki Payı (%)": "",
+      "Temsil Ettiği Pay Grubu": ""
+    },
+    {
+      "Adı-Soyadı": "LALE DEVELİOĞLU",
+      "Tüzel Kişi Üye Adına Hareket Eden Kişi": "",
+      "Cinsiyeti": "Kadın",
+      "Görevi": "Yönetim Kurulu Üyesi",
+      "Mesleği": "Endüstri Mühendisi",
+      "Yönetim Kuruluna İlk Seçilme Tarihi": "20/11/2020",
+      "İcrada Görevli Olup Olmadığı": "İcrada Görevli Değil",
+      "Son 5 Yılda Ortaklıkta Üstlendiği Görevler": "",
+      "Son Durum itibariyle Ortaklık Dışında Aldığı Görevler": "Aksa Akrilikte Yönetim Kurulu Üyesi, Nobel İlaçta Yönetim Kurulu Danışmanı, Qualified Risk Directors Governance Council Başkanı",
+      "Denetim, Muhasebe ve/veya Finans Alanında En Az 5 Yıllık Deneyime Sahip Olup Olmadığı": "Hayır",
+      "Sermayedeki Payı (%)": "",
+      "Temsil Ettiği Pay Grubu": ""
+    },
+    {
+      "Adı-Soyadı": "BEKİR AĞIRDIR",
+      "Tüzel Kişi Üye Adına Hareket Eden Kişi": "",
+      "Cinsiyeti": "Erkek",
+      "Görevi": "Yönetim Kurulu Üyesi",
+      "Mesleği": "İşletme ve Yönetim Meslek Profesyoneli",
+      "Yönetim Kuruluna İlk Seçilme Tarihi": "02/08/2023",
+      "İcrada Görevli Olup Olmadığı": "İcrada Görevli Değil",
+      "Son 5 Yılda Ortaklıkta Üstlendiği Görevler": "",
+      "Son Durum itibariyle Ortaklık Dışında Aldığı Görevler": "Yanındayız Derneği, Demokratik Cumhuriyet Programı ve EYMİR Kültür Vakfı Kurucu Üyesi, ODTÜ Mezunlar Derneği Üyesi, Oksijen Gazetesi yazarı ve T24 İnternet Gazetesi yorumcusu",
+      "Denetim, Muhasebe ve/veya Finans Alanında En Az 5 Yıllık Deneyime Sahip Olup Olmadığı": "Hayır",
+      "Sermayedeki Payı (%)": "",
+      "Temsil Ettiği Pay Grubu": ""
+    },
+    {
+      "Adı-Soyadı": "DİDEM GORDON",
+      "Tüzel Kişi Üye Adına Hareket Eden Kişi": "",
+      "Cinsiyeti": "Kadın",
+      "Görevi": "Yönetim Kurulu Üyesi",
+      "Mesleği": "İşletme ve Yönetim Meslek Profesyoneli",
+      "Yönetim Kuruluna İlk Seçilme Tarihi": "17/04/2024",
+      "İcrada Görevli Olup Olmadığı": "İcrada Görevli Değil",
+      "Son 5 Yılda Ortaklıkta Üstlendiği Görevler": "",
+      "Son Durum itibariyle Ortaklık Dışında Aldığı Görevler": "Re-Pie Portföy Yönetimi A.Ş., Doğan Burda A.Ş. ve Burçelik'te Bağımsız Yönetim Kurulu Üyesi",
+      "Denetim, Muhasebe ve/veya Finans Alanında En Az 5 Yıllık Deneyime Sahip Olup Olmadığı": "Evet",
+      "Sermayedeki Payı (%)": "",
+      "Temsil Ettiği Pay Grubu": ""
+    },
+    {
+      "Adı-Soyadı": "İLHAMİ KOÇ",
+      "Tüzel Kişi Üye Adına Hareket Eden Kişi": "",
+      "Cinsiyeti": "Erkek",
+      "Görevi": "Yönetim Kurulu Üyesi",
+      "Mesleği": "İşletme ve Yönetim Meslek Profesyoneli",
+      "Yönetim Kuruluna İlk Seçilme Tarihi": "17/04/2024",
+      "İcrada Görevli Olup Olmadığı": "İcrada Görevli Değil",
+      "Son 5 Yılda Ortaklıkta Üstlendiği Görevler": "",
+      "Son Durum itibariyle Ortaklık Dışında Aldığı Görevler": "Ernst & Young Türkiye İş Ortağı,",
+      "Denetim, Muhasebe ve/veya Finans Alanında En Az 5 Yıllık Deneyime Sahip Olup Olmadığı": "Evet",
+      "Sermayedeki Payı (%)": "",
+      "Temsil Ettiği Pay Grubu": ""
+    }
+  ],
+  "oy_haklari": {
+    "pairs": [
+      {
+        "alan": "Oy hakkında imtiyaz bulunup bulunmadığı",
+        "deger": "Hayır (No)"
+      },
+      {
+        "alan": "Oyda imtiyaz bulunuyorsa, imtiyazlı pay sahipleri ve oy oranları",
+        "deger": "-"
+      },
+      {
+        "alan": "En büyük pay sahibinin ortaklık oranı",
+        "deger": "%43,05"
+      }
+    ]
+  },
+  "katilim_4_7": {
+    "m1": "EVET",
+    "m2": "EVET",
+    "m3": "HAYIR",
+    "m4": "EVET",
+    "m5": "1,51",
+    "m6": "19,51",
+    "m7": "25,11"
+  }
+}

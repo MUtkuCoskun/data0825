@@ -1,0 +1,1390 @@
+{
+  "ticker": "ARCLK",
+  "summary": {
+    "internet_adresi": "www.arcelikglobal.com",
+    "denetim_kurulusu": "GÜNEY BAĞIMSIZ DENETİM VE SERBEST MUHASEBECİ MALİ MÜŞAVİRLİK A.Ş.",
+    "sektoru_raw": "İMALATMETAL EŞYA MAKİNE ELEKTRİKLİ CİHAZLAR VE ULAŞIM ARAÇLARI",
+    "sektor_ana": "İMALAT",
+    "sektor_alt": "METAL EŞYA MAKİNE ELEKTRİKLİ CİHAZLAR VE ULAŞIM ARAÇLARI",
+    "sektor_alt_list": [
+      "METAL EŞYA MAKİNE ELEKTRİKLİ CİHAZLAR VE ULAŞIM ARAÇLARI"
+    ],
+    "islem_gordugu_pazar": "YILDIZ PAZAR",
+    "dahil_oldugu_endeksler": [
+      "BIST METAL EŞYA, MAKİNA",
+      "BIST YILDIZ",
+      "BIST SÜRDÜRÜLEBİLİRLİK 25",
+      "BIST 50",
+      "BIST SINAİ",
+      "BIST 100-30",
+      "BIST İSTANBUL",
+      "BIST TÜM",
+      "BIST 100",
+      "BIST KURUMSAL YÖNETİM",
+      "BIST 500",
+      "BIST SÜRDÜRÜLEBİLİRLİK"
+    ]
+  },
+  "general": {
+    "merkez_adresi": "Karaağaç Caddesi No:2-6 Sütlüce 34445 Beyoğlu-İstanbul",
+    "uretim_tesis_adresleri": [],
+    "kotasyon_tarihi": "21/01/1986"
+  },
+  "ownership": {
+    "odenmis_cikarilmis_sermaye": null,
+    "kayitli_sermaye_tavani": null,
+    "sermaye_5ustu": [
+      {
+        "Ortağın Adı-Soyadı/Ticaret Ünvanı": "KOÇ HOLDİNG ANONİM ŞİRKETİ",
+        "Sermayedeki Payı(TL)": "279.928.625,03",
+        "Sermayedeki Payı(%)": "41,43",
+        "Oy Hakkı Oranı(%)": "41,43"
+      },
+      {
+        "Ortağın Adı-Soyadı/Ticaret Ünvanı": "TEKNOSAN BÜRO MAKİNE VE LEVAZIMI TİCARET VE SANAYİ ANONİM ŞİRKETİ",
+        "Sermayedeki Payı(TL)": "81.428.336,95",
+        "Sermayedeki Payı(%)": "12,05",
+        "Oy Hakkı Oranı(%)": "12,05"
+      },
+      {
+        "Ortağın Adı-Soyadı/Ticaret Ünvanı": "ARÇELİK A.Ş.",
+        "Sermayedeki Payı(TL)": "67.572.288,02",
+        "Sermayedeki Payı(%)": "10",
+        "Oy Hakkı Oranı(%)": "10"
+      },
+      {
+        "Ortağın Adı-Soyadı/Ticaret Ünvanı": "BURLA TİCARET VE YATIRIM ANONİM ŞİRKETİ",
+        "Sermayedeki Payı(TL)": "37.571.663,05",
+        "Sermayedeki Payı(%)": "5,56",
+        "Oy Hakkı Oranı(%)": "5,56"
+      },
+      {
+        "Ortağın Adı-Soyadı/Ticaret Ünvanı": "DİĞER",
+        "Sermayedeki Payı(TL)": "209.227.291,95",
+        "Sermayedeki Payı(%)": "30,96",
+        "Oy Hakkı Oranı(%)": "30,96"
+      },
+      {
+        "Ortağın Adı-Soyadı/Ticaret Ünvanı": "TOPLAM",
+        "Sermayedeki Payı(TL)": "675.728.205",
+        "Sermayedeki Payı(%)": "100",
+        "Oy Hakkı Oranı(%)": "100"
+      }
+    ],
+    "fiili_dolasim_tutar_tl": "166.651.102,61",
+    "fiili_dolasim_oran": "24,66",
+    "bagli_ortakliklar": [
+      {
+        "Ticaret Ünvanı": "Arçelik Pazarlama A.Ş.",
+        "Şirketin Faaliyet Konusu": "Dayanıklı Tüketim/Elektronik",
+        "Ödenmiş/Çıkarılmış Sermayesi": "2.000.250.000",
+        "Şirketin Sermayedeki Payı": "2.000.250.000",
+        "Para Birimi": "TRY",
+        "Şirketin Sermayedeki Payı(%)": "100",
+        "Şirket ile Olan İlişkinin Niteliği": "Bağlı Ortaklık"
+      },
+      {
+        "Ticaret Ünvanı": "Arch R&D Co. Ltd.",
+        "Şirketin Faaliyet Konusu": "Teknoloji Üretimi ve Tasarım",
+        "Ödenmiş/Çıkarılmış Sermayesi": "15.630.600",
+        "Şirketin Sermayedeki Payı": "15.630.600",
+        "Para Birimi": "CNY",
+        "Şirketin Sermayedeki Payı(%)": "100",
+        "Şirket ile Olan İlişkinin Niteliği": "Bağlı Ortaklık"
+      },
+      {
+        "Ticaret Ünvanı": "Beko Romania SA",
+        "Şirketin Faaliyet Konusu": "Dayanıklı Tüketim/Elektronik",
+        "Ödenmiş/Çıkarılmış Sermayesi": "48.039.066,6",
+        "Şirketin Sermayedeki Payı": "46.483.533",
+        "Para Birimi": "RON",
+        "Şirketin Sermayedeki Payı(%)": "96,76",
+        "Şirket ile Olan İlişkinin Niteliği": "Bağlı Ortaklık"
+      },
+      {
+        "Ticaret Ünvanı": "Arctic Foundation",
+        "Şirketin Faaliyet Konusu": "Dayanıklı Tüketim",
+        "Ödenmiş/Çıkarılmış Sermayesi": "25.000",
+        "Şirketin Sermayedeki Payı": "24.190,5",
+        "Para Birimi": "RON",
+        "Şirketin Sermayedeki Payı(%)": "96,76",
+        "Şirket ile Olan İlişkinin Niteliği": "Bağlı Ortaklık"
+      },
+      {
+        "Ticaret Ünvanı": "Arcwaste Collection",
+        "Şirketin Faaliyet Konusu": "Dayanıklı Tüketim",
+        "Ödenmiş/Çıkarılmış Sermayesi": "10.000",
+        "Şirketin Sermayedeki Payı": "9.676,2",
+        "Para Birimi": "RON",
+        "Şirketin Sermayedeki Payı(%)": "96,76",
+        "Şirket ile Olan İlişkinin Niteliği": "Bağlı Ortaklık"
+      },
+      {
+        "Ticaret Ünvanı": "Beko B.V.",
+        "Şirketin Faaliyet Konusu": "Holding",
+        "Ödenmiş/Çıkarılmış Sermayesi": "655.180.000",
+        "Şirketin Sermayedeki Payı": "655.180.000",
+        "Para Birimi": "EUR",
+        "Şirketin Sermayedeki Payı(%)": "100",
+        "Şirket ile Olan İlişkinin Niteliği": "Bağlı Ortaklık"
+      },
+      {
+        "Ticaret Ünvanı": "Beko A and NZ Pty Ltd.",
+        "Şirketin Faaliyet Konusu": "Dayanıklı Tüketim",
+        "Ödenmiş/Çıkarılmış Sermayesi": "4.000.000",
+        "Şirketin Sermayedeki Payı": "4.000.000",
+        "Para Birimi": "AUD",
+        "Şirketin Sermayedeki Payı(%)": "100",
+        "Şirket ile Olan İlişkinin Niteliği": "Bağlı Ortaklık"
+      },
+      {
+        "Ticaret Ünvanı": "Beko APAC IBC Co., Ltd.",
+        "Şirketin Faaliyet Konusu": "Dayanıklı Tüketim",
+        "Ödenmiş/Çıkarılmış Sermayesi": "20.000.000",
+        "Şirketin Sermayedeki Payı": "20.000.000",
+        "Para Birimi": "THB",
+        "Şirketin Sermayedeki Payı(%)": "100",
+        "Şirket ile Olan İlişkinin Niteliği": "Bağlı Ortaklık"
+      },
+      {
+        "Ticaret Ünvanı": "Beko Appliances Indonesia, PT",
+        "Şirketin Faaliyet Konusu": "Dayanıklı Tüketim",
+        "Ödenmiş/Çıkarılmış Sermayesi": "146.537.809.500",
+        "Şirketin Sermayedeki Payı": "146.537.809.500",
+        "Para Birimi": "IDR",
+        "Şirketin Sermayedeki Payı(%)": "100",
+        "Şirket ile Olan İlişkinin Niteliği": "Bağlı Ortaklık"
+      },
+      {
+        "Ticaret Ünvanı": "Beko Appliances Malaysia Sdn. Bhd.",
+        "Şirketin Faaliyet Konusu": "Dayanıklı Tüketim",
+        "Ödenmiş/Çıkarılmış Sermayesi": "72.562.700",
+        "Şirketin Sermayedeki Payı": "72.562.700",
+        "Para Birimi": "MYR",
+        "Şirketin Sermayedeki Payı(%)": "100",
+        "Şirket ile Olan İlişkinin Niteliği": "Bağlı Ortaklık"
+      },
+      {
+        "Ticaret Ünvanı": "Beko Balkans D.O.O.",
+        "Şirketin Faaliyet Konusu": "Dayanıklı Tüketim/Elektronik",
+        "Ödenmiş/Çıkarılmış Sermayesi": "130.000.000",
+        "Şirketin Sermayedeki Payı": "130.000.000",
+        "Para Birimi": "RSD",
+        "Şirketin Sermayedeki Payı(%)": "100",
+        "Şirket ile Olan İlişkinin Niteliği": "Bağlı Ortaklık"
+      },
+      {
+        "Ticaret Ünvanı": "Beko Central Asia",
+        "Şirketin Faaliyet Konusu": "Dayanıklı Tüketim",
+        "Ödenmiş/Çıkarılmış Sermayesi": "1.480.000.000",
+        "Şirketin Sermayedeki Payı": "1.480.000.000",
+        "Para Birimi": "KZT",
+        "Şirketin Sermayedeki Payı(%)": "100",
+        "Şirket ile Olan İlişkinin Niteliği": "Bağlı Ortaklık"
+      },
+      {
+        "Ticaret Ünvanı": "Beko Egypt Trading LLC",
+        "Şirketin Faaliyet Konusu": "Dayanıklı Tüketim",
+        "Ödenmiş/Çıkarılmış Sermayesi": "605.408.000",
+        "Şirketin Sermayedeki Payı": "605.408.000",
+        "Para Birimi": "EGP",
+        "Şirketin Sermayedeki Payı(%)": "100",
+        "Şirket ile Olan İlişkinin Niteliği": "Bağlı Ortaklık"
+      },
+      {
+        "Ticaret Ünvanı": "Beko Spain Electronics SL",
+        "Şirketin Faaliyet Konusu": "Dayanıklı Tüketim/Elektronik",
+        "Ödenmiş/Çıkarılmış Sermayesi": "1.014.420",
+        "Şirketin Sermayedeki Payı": "1.014.420",
+        "Para Birimi": "EUR",
+        "Şirketin Sermayedeki Payı(%)": "100",
+        "Şirket ile Olan İlişkinin Niteliği": "Bağlı Ortaklık"
+      },
+      {
+        "Ticaret Ünvanı": "Beko France S.A.S.",
+        "Şirketin Faaliyet Konusu": "Dayanıklı Tüketim/Elektronik",
+        "Ödenmiş/Çıkarılmış Sermayesi": "600.000",
+        "Şirketin Sermayedeki Payı": "600.000",
+        "Para Birimi": "EUR",
+        "Şirketin Sermayedeki Payı(%)": "100",
+        "Şirket ile Olan İlişkinin Niteliği": "Bağlı Ortaklık"
+      },
+      {
+        "Ticaret Ünvanı": "Beko Germany GmbH",
+        "Şirketin Faaliyet Konusu": "Dayanıklı Tüketim/Elektronik",
+        "Ödenmiş/Çıkarılmış Sermayesi": "25.000",
+        "Şirketin Sermayedeki Payı": "25.000",
+        "Para Birimi": "EUR",
+        "Şirketin Sermayedeki Payı(%)": "100",
+        "Şirket ile Olan İlişkinin Niteliği": "Bağlı Ortaklık"
+      },
+      {
+        "Ticaret Ünvanı": "Beko Switzerland GmbH",
+        "Şirketin Faaliyet Konusu": "Dayanıklı Tüketim/Elektronik",
+        "Ödenmiş/Çıkarılmış Sermayesi": "1.000.000",
+        "Şirketin Sermayedeki Payı": "1.000.000",
+        "Para Birimi": "CHF",
+        "Şirketin Sermayedeki Payı(%)": "100",
+        "Şirket ile Olan İlişkinin Niteliği": "Bağlı Ortaklık"
+      },
+      {
+        "Ticaret Ünvanı": "Beko Gulf FZE",
+        "Şirketin Faaliyet Konusu": "Dayanıklı Tüketim/Elektronik",
+        "Ödenmiş/Çıkarılmış Sermayesi": "12.853.750",
+        "Şirketin Sermayedeki Payı": "12.853.750",
+        "Para Birimi": "AED",
+        "Şirketin Sermayedeki Payı(%)": "100",
+        "Şirket ile Olan İlişkinin Niteliği": "Bağlı Ortaklık"
+      },
+      {
+        "Ticaret Ünvanı": "Beko Portugal, Unipessoal Lda",
+        "Şirketin Faaliyet Konusu": "Dayanıklı Tüketim/Elektronik",
+        "Ödenmiş/Çıkarılmış Sermayesi": "2.500.000",
+        "Şirketin Sermayedeki Payı": "2.500.000",
+        "Para Birimi": "EUR",
+        "Şirketin Sermayedeki Payı(%)": "100",
+        "Şirket ile Olan İlişkinin Niteliği": "Bağlı Ortaklık"
+      },
+      {
+        "Ticaret Ünvanı": "Beko Hong Kong Ltd.",
+        "Şirketin Faaliyet Konusu": "Dayanıklı Tüketim/Elektronik",
+        "Ödenmiş/Çıkarılmış Sermayesi": "100.000",
+        "Şirketin Sermayedeki Payı": "100.000",
+        "Para Birimi": "USD",
+        "Şirketin Sermayedeki Payı(%)": "100",
+        "Şirket ile Olan İlişkinin Niteliği": "Bağlı Ortaklık"
+      },
+      {
+        "Ticaret Ünvanı": "Beko Italy SRL",
+        "Şirketin Faaliyet Konusu": "Dayanıklı Tüketim/Elektronik",
+        "Ödenmiş/Çıkarılmış Sermayesi": "8.000.000",
+        "Şirketin Sermayedeki Payı": "8.000.000",
+        "Para Birimi": "EUR",
+        "Şirketin Sermayedeki Payı(%)": "100",
+        "Şirket ile Olan İlişkinin Niteliği": "Bağlı Ortaklık"
+      },
+      {
+        "Ticaret Ünvanı": "Beko LLC",
+        "Şirketin Faaliyet Konusu": "Dayanıklı Tüketim/Elektronik",
+        "Ödenmiş/Çıkarılmış Sermayesi": "4.283.520.885,26",
+        "Şirketin Sermayedeki Payı": "4.283.520.885,26",
+        "Para Birimi": "RUB",
+        "Şirketin Sermayedeki Payı(%)": "100",
+        "Şirket ile Olan İlişkinin Niteliği": "Bağlı Ortaklık"
+      },
+      {
+        "Ticaret Ünvanı": "Beko Morocco",
+        "Şirketin Faaliyet Konusu": "Dayanıklı Tüketim/Elektronik",
+        "Ödenmiş/Çıkarılmış Sermayesi": "8.200.000",
+        "Şirketin Sermayedeki Payı": "8.200.000",
+        "Para Birimi": "MAD",
+        "Şirketin Sermayedeki Payı(%)": "100",
+        "Şirket ile Olan İlişkinin Niteliği": "Bağlı Ortaklık"
+      },
+      {
+        "Ticaret Ünvanı": "Beko Pilipinas Corporation",
+        "Şirketin Faaliyet Konusu": "Dayanıklı Tüketim",
+        "Ödenmiş/Çıkarılmış Sermayesi": "500.000.000",
+        "Şirketin Sermayedeki Payı": "500.000.000",
+        "Para Birimi": "PHP",
+        "Şirketin Sermayedeki Payı(%)": "100",
+        "Şirket ile Olan İlişkinin Niteliği": "Bağlı Ortaklık"
+      },
+      {
+        "Ticaret Ünvanı": "Beko Plc.",
+        "Şirketin Faaliyet Konusu": "Dayanıklı Tüketim/Elektronik",
+        "Ödenmiş/Çıkarılmış Sermayesi": "500.000",
+        "Şirketin Sermayedeki Payı": "500.000",
+        "Para Birimi": "GBP",
+        "Şirketin Sermayedeki Payı(%)": "100",
+        "Şirket ile Olan İlişkinin Niteliği": "Bağlı Ortaklık"
+      },
+      {
+        "Ticaret Ünvanı": "Beko S.A.",
+        "Şirketin Faaliyet Konusu": "Dayanıklı Tüketim/Elektronik",
+        "Ödenmiş/Çıkarılmış Sermayesi": "10.000.000",
+        "Şirketin Sermayedeki Payı": "10.000.000",
+        "Para Birimi": "PLN",
+        "Şirketin Sermayedeki Payı(%)": "100",
+        "Şirket ile Olan İlişkinin Niteliği": "Bağlı Ortaklık"
+      },
+      {
+        "Ticaret Ünvanı": "Beko Shanghai Trading Company Ltd.",
+        "Şirketin Faaliyet Konusu": "Dayanıklı Tüketim/Elektronik",
+        "Ödenmiş/Çıkarılmış Sermayesi": "5.406.260",
+        "Şirketin Sermayedeki Payı": "5.406.260",
+        "Para Birimi": "CNY",
+        "Şirketin Sermayedeki Payı(%)": "100",
+        "Şirket ile Olan İlişkinin Niteliği": "Bağlı Ortaklık"
+      },
+      {
+        "Ticaret Ünvanı": "Beko Slovakia S.R.O.",
+        "Şirketin Faaliyet Konusu": "Dayanıklı Tüketim/Elektronik",
+        "Ödenmiş/Çıkarılmış Sermayesi": "238.996",
+        "Şirketin Sermayedeki Payı": "238.996",
+        "Para Birimi": "EUR",
+        "Şirketin Sermayedeki Payı(%)": "100",
+        "Şirket ile Olan İlişkinin Niteliği": "Bağlı Ortaklık"
+      },
+      {
+        "Ticaret Ünvanı": "Beko Thai Co.",
+        "Şirketin Faaliyet Konusu": "Dayanıklı Tüketim",
+        "Ödenmiş/Çıkarılmış Sermayesi": "5.281.222.026",
+        "Şirketin Sermayedeki Payı": "5.281.222.026",
+        "Para Birimi": "THB",
+        "Şirketin Sermayedeki Payı(%)": "100",
+        "Şirket ile Olan İlişkinin Niteliği": "Bağlı Ortaklık"
+      },
+      {
+        "Ticaret Ünvanı": "Beko Ukraine LLC",
+        "Şirketin Faaliyet Konusu": "Dayanıklı Tüketim",
+        "Ödenmiş/Çıkarılmış Sermayesi": "190.085.828",
+        "Şirketin Sermayedeki Payı": "190.085.828",
+        "Para Birimi": "UAH",
+        "Şirketin Sermayedeki Payı(%)": "100",
+        "Şirket ile Olan İlişkinin Niteliği": "Bağlı Ortaklık"
+      },
+      {
+        "Ticaret Ünvanı": "Beko US Inc.",
+        "Şirketin Faaliyet Konusu": "Dayanıklı Tüketim",
+        "Ödenmiş/Çıkarılmış Sermayesi": "2.500.100",
+        "Şirketin Sermayedeki Payı": "2.500.100",
+        "Para Birimi": "USD",
+        "Şirketin Sermayedeki Payı(%)": "100",
+        "Şirket ile Olan İlişkinin Niteliği": "Bağlı Ortaklık"
+      },
+      {
+        "Ticaret Ünvanı": "Beko Austria AG",
+        "Şirketin Faaliyet Konusu": "Dayanıklı Tüketim/Elektronik",
+        "Ödenmiş/Çıkarılmış Sermayesi": "9.000.000",
+        "Şirketin Sermayedeki Payı": "9.000.000",
+        "Para Birimi": "EUR",
+        "Şirketin Sermayedeki Payı(%)": "100",
+        "Şirket ile Olan İlişkinin Niteliği": "Bağlı Ortaklık"
+      },
+      {
+        "Ticaret Ünvanı": "Beko Egypt Home Appliances Industries",
+        "Şirketin Faaliyet Konusu": "Dayanıklı Tüketim",
+        "Ödenmiş/Çıkarılmış Sermayesi": "1.504.529.725",
+        "Şirketin Sermayedeki Payı": "1.504.529.725",
+        "Para Birimi": "EGP",
+        "Şirketin Sermayedeki Payı(%)": "100",
+        "Şirket ile Olan İlişkinin Niteliği": "Bağlı Ortaklık"
+      },
+      {
+        "Ticaret Ünvanı": "Beko Hungary",
+        "Şirketin Faaliyet Konusu": "Dayanıklı Tüketim",
+        "Ödenmiş/Çıkarılmış Sermayesi": "1.000.000",
+        "Şirketin Sermayedeki Payı": "1.000.000",
+        "Para Birimi": "EUR",
+        "Şirketin Sermayedeki Payı(%)": "100",
+        "Şirket ile Olan İlişkinin Niteliği": "Bağlı Ortaklık"
+      },
+      {
+        "Ticaret Ünvanı": "Beko Azerbaycan MMC",
+        "Şirketin Faaliyet Konusu": "Dayanıklı Tüketim",
+        "Ödenmiş/Çıkarılmış Sermayesi": "100.000",
+        "Şirketin Sermayedeki Payı": "100.000",
+        "Para Birimi": "EUR",
+        "Şirketin Sermayedeki Payı(%)": "100",
+        "Şirket ile Olan İlişkinin Niteliği": "Bağlı Ortaklık"
+      },
+      {
+        "Ticaret Ünvanı": "Beko Algéria",
+        "Şirketin Faaliyet Konusu": "Dayanıklı Tüketim",
+        "Ödenmiş/Çıkarılmış Sermayesi": "63.000.000",
+        "Şirketin Sermayedeki Payı": "63.000.000",
+        "Para Birimi": "DZD",
+        "Şirketin Sermayedeki Payı(%)": "100",
+        "Şirket ile Olan İlişkinin Niteliği": "Bağlı Ortaklık"
+      },
+      {
+        "Ticaret Ünvanı": "Beko S.A. Czech Republic",
+        "Şirketin Faaliyet Konusu": "Dayanıklı Tüketim",
+        "Ödenmiş/Çıkarılmış Sermayesi": "37.035.184",
+        "Şirketin Sermayedeki Payı": "37.035.184",
+        "Para Birimi": "CZK",
+        "Şirketin Sermayedeki Payı(%)": "100",
+        "Şirket ile Olan İlişkinin Niteliği": "Bağlı Ortaklık"
+      },
+      {
+        "Ticaret Ünvanı": "Beko Grundig Croatia",
+        "Şirketin Faaliyet Konusu": "Dayanıklı Tüketim",
+        "Ödenmiş/Çıkarılmış Sermayesi": "850.000",
+        "Şirketin Sermayedeki Payı": "850.000",
+        "Para Birimi": "EUR",
+        "Şirketin Sermayedeki Payı(%)": "100",
+        "Şirket ile Olan İlişkinin Niteliği": "Bağlı Ortaklık"
+      },
+      {
+        "Ticaret Ünvanı": "Beko Greece S.M.S.A.",
+        "Şirketin Faaliyet Konusu": "Dayanıklı Tüketim",
+        "Ödenmiş/Çıkarılmış Sermayesi": "250.000",
+        "Şirketin Sermayedeki Payı": "250.000",
+        "Para Birimi": "EUR",
+        "Şirketin Sermayedeki Payı(%)": "100",
+        "Şirket ile Olan İlişkinin Niteliği": "Bağlı Ortaklık"
+      },
+      {
+        "Ticaret Ünvanı": "Beko Netherlands BV",
+        "Şirketin Faaliyet Konusu": "Dayanıklı Tüketim",
+        "Ödenmiş/Çıkarılmış Sermayesi": "45.000",
+        "Şirketin Sermayedeki Payı": "45.000",
+        "Para Birimi": "EUR",
+        "Şirketin Sermayedeki Payı(%)": "100",
+        "Şirket ile Olan İlişkinin Niteliği": "Bağlı Ortaklık"
+      },
+      {
+        "Ticaret Ünvanı": "Beko Belgium NV",
+        "Şirketin Faaliyet Konusu": "Dayanıklı Tüketim",
+        "Ödenmiş/Çıkarılmış Sermayesi": "600.080",
+        "Şirketin Sermayedeki Payı": "600.080",
+        "Para Birimi": "EUR",
+        "Şirketin Sermayedeki Payı(%)": "100",
+        "Şirket ile Olan İlişkinin Niteliği": "Bağlı Ortaklık"
+      },
+      {
+        "Ticaret Ünvanı": "Beko Europe B.V.",
+        "Şirketin Faaliyet Konusu": "Holding",
+        "Ödenmiş/Çıkarılmış Sermayesi": "100",
+        "Şirketin Sermayedeki Payı": "100",
+        "Para Birimi": "EUR",
+        "Şirketin Sermayedeki Payı(%)": "100",
+        "Şirket ile Olan İlişkinin Niteliği": "Bağlı Ortaklık"
+      },
+      {
+        "Ticaret Ünvanı": "BEKO Cesko S.R.O.",
+        "Şirketin Faaliyet Konusu": "Dayanıklı Tüketim",
+        "Ödenmiş/Çıkarılmış Sermayesi": "14.000.000",
+        "Şirketin Sermayedeki Payı": "14.000.000",
+        "Para Birimi": "CZK",
+        "Şirketin Sermayedeki Payı(%)": "100",
+        "Şirket ile Olan İlişkinin Niteliği": "Bağlı Ortaklık"
+      },
+      {
+        "Ticaret Ünvanı": "Beko Electrical Appliances Co. Ltd.",
+        "Şirketin Faaliyet Konusu": "Dayanıklı Tüketim",
+        "Ödenmiş/Çıkarılmış Sermayesi": "601.662.719",
+        "Şirketin Sermayedeki Payı": "601.662.719",
+        "Para Birimi": "CNY",
+        "Şirketin Sermayedeki Payı(%)": "100",
+        "Şirket ile Olan İlişkinin Niteliği": "Bağlı Ortaklık"
+      },
+      {
+        "Ticaret Ünvanı": "Dawlance Private Ltd.",
+        "Şirketin Faaliyet Konusu": "Dayanıklı Tüketim",
+        "Ödenmiş/Çıkarılmış Sermayesi": "519.129.000",
+        "Şirketin Sermayedeki Payı": "519.129.000",
+        "Para Birimi": "PKR",
+        "Şirketin Sermayedeki Payı(%)": "100",
+        "Şirket ile Olan İlişkinin Niteliği": "Bağlı Ortaklık"
+      },
+      {
+        "Ticaret Ünvanı": "DEL Electronics (Private) Ltd.",
+        "Şirketin Faaliyet Konusu": "Dayanıklı Tüketim",
+        "Ödenmiş/Çıkarılmış Sermayesi": "40.000.000",
+        "Şirketin Sermayedeki Payı": "40.000.000",
+        "Para Birimi": "PKR",
+        "Şirketin Sermayedeki Payı(%)": "100",
+        "Şirket ile Olan İlişkinin Niteliği": "Bağlı Ortaklık"
+      },
+      {
+        "Ticaret Ünvanı": "Defy Appliances (Proprietary) Ltd.",
+        "Şirketin Faaliyet Konusu": "Dayanıklı Tüketim",
+        "Ödenmiş/Çıkarılmış Sermayesi": "1.500",
+        "Şirketin Sermayedeki Payı": "1.500",
+        "Para Birimi": "ZAR",
+        "Şirketin Sermayedeki Payı(%)": "100",
+        "Şirket ile Olan İlişkinin Niteliği": "Bağlı Ortaklık"
+      },
+      {
+        "Ticaret Ünvanı": "Defy (Botswana) (Proprietary) Ltd.",
+        "Şirketin Faaliyet Konusu": "Dayanıklı Tüketim",
+        "Ödenmiş/Çıkarılmış Sermayesi": "3.000",
+        "Şirketin Sermayedeki Payı": "3.000",
+        "Para Birimi": "BWP",
+        "Şirketin Sermayedeki Payı(%)": "100",
+        "Şirket ile Olan İlişkinin Niteliği": "Bağlı Ortaklık"
+      },
+      {
+        "Ticaret Ünvanı": "Defy (Namibia) (Proprietary) Ltd.",
+        "Şirketin Faaliyet Konusu": "Dayanıklı Tüketim",
+        "Ödenmiş/Çıkarılmış Sermayesi": "100",
+        "Şirketin Sermayedeki Payı": "100",
+        "Para Birimi": "NAD",
+        "Şirketin Sermayedeki Payı(%)": "100",
+        "Şirket ile Olan İlişkinin Niteliği": "Bağlı Ortaklık"
+      },
+      {
+        "Ticaret Ünvanı": "Defy Sales East Africa Limited",
+        "Şirketin Faaliyet Konusu": "Dayanıklı Tüketim",
+        "Ödenmiş/Çıkarılmış Sermayesi": "400.000.000",
+        "Şirketin Sermayedeki Payı": "400.000.000",
+        "Para Birimi": "KES",
+        "Şirketin Sermayedeki Payı(%)": "100",
+        "Şirket ile Olan İlişkinin Niteliği": "Bağlı Ortaklık"
+      },
+      {
+        "Ticaret Ünvanı": "Defy (Swaziland) (Proprietary) Ltd.",
+        "Şirketin Faaliyet Konusu": "Dayanıklı Tüketim",
+        "Ödenmiş/Çıkarılmış Sermayesi": "2",
+        "Şirketin Sermayedeki Payı": "2",
+        "Para Birimi": "SZL",
+        "Şirketin Sermayedeki Payı(%)": "100",
+        "Şirket ile Olan İlişkinin Niteliği": "Bağlı Ortaklık"
+      },
+      {
+        "Ticaret Ünvanı": "Grundig Multimedia A.G.",
+        "Şirketin Faaliyet Konusu": "Elektronik",
+        "Ödenmiş/Çıkarılmış Sermayesi": "100.000",
+        "Şirketin Sermayedeki Payı": "100.000",
+        "Para Birimi": "CHF",
+        "Şirketin Sermayedeki Payı(%)": "100",
+        "Şirket ile Olan İlişkinin Niteliği": "Bağlı Ortaklık"
+      },
+      {
+        "Ticaret Ünvanı": "Beko Nordic AB",
+        "Şirketin Faaliyet Konusu": "Dayanıklı Tüketim/Elektronik",
+        "Ödenmiş/Çıkarılmış Sermayesi": "20.000.000",
+        "Şirketin Sermayedeki Payı": "20.000.000",
+        "Para Birimi": "SEK",
+        "Şirketin Sermayedeki Payı(%)": "100",
+        "Şirket ile Olan İlişkinin Niteliği": "Bağlı Ortaklık"
+      },
+      {
+        "Ticaret Ünvanı": "Beko Nordic AS (Denmark Branch)",
+        "Şirketin Faaliyet Konusu": "Dayanıklı Tüketim/Elektronik",
+        "Ödenmiş/Çıkarılmış Sermayesi": "1.000.000",
+        "Şirketin Sermayedeki Payı": "1.000.000",
+        "Para Birimi": "NOK",
+        "Şirketin Sermayedeki Payı(%)": "100",
+        "Şirket ile Olan İlişkinin Niteliği": "Bağlı Ortaklık"
+      },
+      {
+        "Ticaret Ünvanı": "Beko Nordic AS",
+        "Şirketin Faaliyet Konusu": "Dayanıklı Tüketim/Elektronik",
+        "Ödenmiş/Çıkarılmış Sermayesi": "1.000.000",
+        "Şirketin Sermayedeki Payı": "1.000.000",
+        "Para Birimi": "NOK",
+        "Şirketin Sermayedeki Payı(%)": "100",
+        "Şirket ile Olan İlişkinin Niteliği": "Bağlı Ortaklık"
+      },
+      {
+        "Ticaret Ünvanı": "Grundig Intermedia Ges.m.b.H., Wien",
+        "Şirketin Faaliyet Konusu": "Dayanıklı Tüketim",
+        "Ödenmiş/Çıkarılmış Sermayesi": "35.000",
+        "Şirketin Sermayedeki Payı": "35.000",
+        "Para Birimi": "EUR",
+        "Şirketin Sermayedeki Payı(%)": "100",
+        "Şirket ile Olan İlişkinin Niteliği": "Bağlı Ortaklık"
+      },
+      {
+        "Ticaret Ünvanı": "Arçelik Hitachi Home Appliances (Shanghai) Co., Ltd.",
+        "Şirketin Faaliyet Konusu": "Dayanıklı Tüketim",
+        "Ödenmiş/Çıkarılmış Sermayesi": "412.570.000",
+        "Şirketin Sermayedeki Payı": "235.165.200",
+        "Para Birimi": "CNY",
+        "Şirketin Sermayedeki Payı(%)": "57",
+        "Şirket ile Olan İlişkinin Niteliği": "Bağlı Ortaklık"
+      },
+      {
+        "Ticaret Ünvanı": "Arçelik Hitachi Home Appliances (Thailand) Ltd.",
+        "Şirketin Faaliyet Konusu": "Dayanıklı Tüketim",
+        "Ödenmiş/Çıkarılmış Sermayesi": "2.472.000.000",
+        "Şirketin Sermayedeki Payı": "1.246.899.000",
+        "Para Birimi": "THB",
+        "Şirketin Sermayedeki Payı(%)": "50,4",
+        "Şirket ile Olan İlişkinin Niteliği": "Bağlı Ortaklık"
+      },
+      {
+        "Ticaret Ünvanı": "Arçelik Hitachi Home Appliances Sales (Singapore) Pte. Ltd.",
+        "Şirketin Faaliyet Konusu": "Dayanıklı Tüketim",
+        "Ödenmiş/Çıkarılmış Sermayesi": "3.614.000",
+        "Şirketin Sermayedeki Payı": "2.168.400",
+        "Para Birimi": "SGD",
+        "Şirketin Sermayedeki Payı(%)": "60",
+        "Şirket ile Olan İlişkinin Niteliği": "Bağlı Ortaklık"
+      },
+      {
+        "Ticaret Ünvanı": "Arçelik Hitachi Home Appliances Sales (Thailand) Ltd.",
+        "Şirketin Faaliyet Konusu": "Dayanıklı Tüketim",
+        "Ödenmiş/Çıkarılmış Sermayesi": "17.800.000",
+        "Şirketin Sermayedeki Payı": "10.680.000",
+        "Para Birimi": "THB",
+        "Şirketin Sermayedeki Payı(%)": "60",
+        "Şirket ile Olan İlişkinin Niteliği": "Bağlı Ortaklık"
+      },
+      {
+        "Ticaret Ünvanı": "Arçelik Hitachi Home Appliances Sales Malaysia Sdn. Bhd.",
+        "Şirketin Faaliyet Konusu": "Dayanıklı Tüketim",
+        "Ödenmiş/Çıkarılmış Sermayesi": "1.000.000",
+        "Şirketin Sermayedeki Payı": "600.000",
+        "Para Birimi": "MYR",
+        "Şirketin Sermayedeki Payı(%)": "60",
+        "Şirket ile Olan İlişkinin Niteliği": "Bağlı Ortaklık"
+      },
+      {
+        "Ticaret Ünvanı": "Arçelik Hitachi Home Appliances Sales Middle East Fze",
+        "Şirketin Faaliyet Konusu": "Dayanıklı Tüketim",
+        "Ödenmiş/Çıkarılmış Sermayesi": "1.000.000",
+        "Şirketin Sermayedeki Payı": "600.000",
+        "Para Birimi": "AED",
+        "Şirketin Sermayedeki Payı(%)": "60",
+        "Şirket ile Olan İlişkinin Niteliği": "Bağlı Ortaklık"
+      },
+      {
+        "Ticaret Ünvanı": "Arçelik Hitachi Home Appliances Sales Vietnam Co., Ltd.",
+        "Şirketin Faaliyet Konusu": "Dayanıklı Tüketim",
+        "Ödenmiş/Çıkarılmış Sermayesi": "200.000",
+        "Şirketin Sermayedeki Payı": "120.000",
+        "Para Birimi": "USD",
+        "Şirketin Sermayedeki Payı(%)": "60",
+        "Şirket ile Olan İlişkinin Niteliği": "Bağlı Ortaklık"
+      },
+      {
+        "Ticaret Ünvanı": "Arçelik Hitachi Home Appliances Sales Hong Kong Limited",
+        "Şirketin Faaliyet Konusu": "Dayanıklı Tüketim",
+        "Ödenmiş/Çıkarılmış Sermayesi": "1.000.000",
+        "Şirketin Sermayedeki Payı": "600.000",
+        "Para Birimi": "HKD",
+        "Şirketin Sermayedeki Payı(%)": "60",
+        "Şirket ile Olan İlişkinin Niteliği": "Bağlı Ortaklık"
+      },
+      {
+        "Ticaret Ünvanı": "Arçelik Hitachi Taiwan Home Appliances Sales Ltd.",
+        "Şirketin Faaliyet Konusu": "Dayanıklı Tüketim",
+        "Ödenmiş/Çıkarılmış Sermayesi": "40.700.000",
+        "Şirketin Sermayedeki Payı": "24.420.000",
+        "Para Birimi": "TWD",
+        "Şirketin Sermayedeki Payı(%)": "60",
+        "Şirket ile Olan İlişkinin Niteliği": "Bağlı Ortaklık"
+      },
+      {
+        "Ticaret Ünvanı": "Arçelik Hitachi Home Appliances B.V.",
+        "Şirketin Faaliyet Konusu": "Dayanıklı Tüketim",
+        "Ödenmiş/Çıkarılmış Sermayesi": "10.000",
+        "Şirketin Sermayedeki Payı": "6.000",
+        "Para Birimi": "EUR",
+        "Şirketin Sermayedeki Payı(%)": "60",
+        "Şirket ile Olan İlişkinin Niteliği": "Bağlı Ortaklık"
+      },
+      {
+        "Ticaret Ünvanı": "Arçelik Hitachi Home Appliances Ibc Co. Ltd",
+        "Şirketin Faaliyet Konusu": "Dayanıklı Tüketim",
+        "Ödenmiş/Çıkarılmış Sermayesi": "30.000.000",
+        "Şirketin Sermayedeki Payı": "18.000.000",
+        "Para Birimi": "THB",
+        "Şirketin Sermayedeki Payı(%)": "60",
+        "Şirket ile Olan İlişkinin Niteliği": "Bağlı Ortaklık"
+      },
+      {
+        "Ticaret Ünvanı": "PT. Arcelik Hitachi Home Appliances Sales Indonesia",
+        "Şirketin Faaliyet Konusu": "Dayanıklı Tüketim",
+        "Ödenmiş/Çıkarılmış Sermayesi": "8.800.000.000",
+        "Şirketin Sermayedeki Payı": "3.564.000.000",
+        "Para Birimi": "IDR",
+        "Şirketin Sermayedeki Payı(%)": "40,5",
+        "Şirket ile Olan İlişkinin Niteliği": "İştirak"
+      },
+      {
+        "Ticaret Ünvanı": "IHP Appliances JSC",
+        "Şirketin Faaliyet Konusu": "Dayanıklı Tüketim",
+        "Ödenmiş/Çıkarılmış Sermayesi": "1.664.165.000",
+        "Şirketin Sermayedeki Payı": "1.664.165.000",
+        "Para Birimi": "RUB",
+        "Şirketin Sermayedeki Payı(%)": "100",
+        "Şirket ile Olan İlişkinin Niteliği": "Bağlı Ortaklık"
+      },
+      {
+        "Ticaret Ünvanı": "IHP Kazakhstan LLP",
+        "Şirketin Faaliyet Konusu": "Dayanıklı Tüketim",
+        "Ödenmiş/Çıkarılmış Sermayesi": "54.615.000",
+        "Şirketin Sermayedeki Payı": "54.615.000",
+        "Para Birimi": "KZT",
+        "Şirketin Sermayedeki Payı(%)": "100",
+        "Şirket ile Olan İlişkinin Niteliği": "Bağlı Ortaklık"
+      },
+      {
+        "Ticaret Ünvanı": "IHP Appliances Sales LLC",
+        "Şirketin Faaliyet Konusu": "Dayanıklı Tüketim",
+        "Ödenmiş/Çıkarılmış Sermayesi": "4.340.000",
+        "Şirketin Sermayedeki Payı": "4.340.000",
+        "Para Birimi": "RUB",
+        "Şirketin Sermayedeki Payı(%)": "100",
+        "Şirket ile Olan İlişkinin Niteliği": "Bağlı Ortalık"
+      },
+      {
+        "Ticaret Ünvanı": "Pan Asia Private Equity Ltd.",
+        "Şirketin Faaliyet Konusu": "Holding",
+        "Ödenmiş/Çıkarılmış Sermayesi": "1.000",
+        "Şirketin Sermayedeki Payı": "1.000",
+        "Para Birimi": "USD",
+        "Şirketin Sermayedeki Payı(%)": "100",
+        "Şirket ile Olan İlişkinin Niteliği": "Bağlı Ortaklık"
+      },
+      {
+        "Ticaret Ünvanı": "PT Home Appliances Indonesia",
+        "Şirketin Faaliyet Konusu": "Dayanıklı Tüketim",
+        "Ödenmiş/Çıkarılmış Sermayesi": "2.500.000.000",
+        "Şirketin Sermayedeki Payı": "1.675.000.000",
+        "Para Birimi": "IDR",
+        "Şirketin Sermayedeki Payı(%)": "67",
+        "Şirket ile Olan İlişkinin Niteliği": "Bağlı Ortaklık"
+      },
+      {
+        "Ticaret Ünvanı": "Beko Bangladesh BV",
+        "Şirketin Faaliyet Konusu": "Holding",
+        "Ödenmiş/Çıkarılmış Sermayesi": "45.000",
+        "Şirketin Sermayedeki Payı": "45.000",
+        "Para Birimi": "EUR",
+        "Şirketin Sermayedeki Payı(%)": "100",
+        "Şirket ile Olan İlişkinin Niteliği": "Bağlı Ortaklık"
+      },
+      {
+        "Ticaret Ünvanı": "Singer Bangladesh Limited",
+        "Şirketin Faaliyet Konusu": "Dayanıklı Tüketim/Elektronik",
+        "Ödenmiş/Çıkarılmış Sermayesi": "997.028.380",
+        "Şirketin Sermayedeki Payı": "568.193.370",
+        "Para Birimi": "BDT",
+        "Şirketin Sermayedeki Payı(%)": "56,99",
+        "Şirket ile Olan İlişkinin Niteliği": "Bağlı Ortaklık"
+      },
+      {
+        "Ticaret Ünvanı": "United Refrigeration Industries Ltd.",
+        "Şirketin Faaliyet Konusu": "Dayanıklı Tüketim",
+        "Ödenmiş/Çıkarılmış Sermayesi": "518.616.000",
+        "Şirketin Sermayedeki Payı": "518.616.000",
+        "Para Birimi": "PKR",
+        "Şirketin Sermayedeki Payı(%)": "100",
+        "Şirket ile Olan İlişkinin Niteliği": "Bağlı Ortaklık"
+      },
+      {
+        "Ticaret Ünvanı": "Vietbeko Limited Liability Company",
+        "Şirketin Faaliyet Konusu": "Dayanıklı Tüketim",
+        "Ödenmiş/Çıkarılmış Sermayesi": "676.522.723.700",
+        "Şirketin Sermayedeki Payı": "676.522.723.700",
+        "Para Birimi": "VND",
+        "Şirketin Sermayedeki Payı(%)": "100",
+        "Şirket ile Olan İlişkinin Niteliği": "Bağlı Ortaklık"
+      },
+      {
+        "Ticaret Ünvanı": "Arçelik-LG Klima Sanayi ve Ticaret A.Ş.",
+        "Şirketin Faaliyet Konusu": "Dayanıklı Tüketim",
+        "Ödenmiş/Çıkarılmış Sermayesi": "28.800.000",
+        "Şirketin Sermayedeki Payı": "12.960.200",
+        "Para Birimi": "TRY",
+        "Şirketin Sermayedeki Payı(%)": "45",
+        "Şirket ile Olan İlişkinin Niteliği": "Özkaynak Yöntemiyle Değerlenen Yatırımlar (İş Ortaklığı)"
+      },
+      {
+        "Ticaret Ünvanı": "Voltbek Home Appliances Private Ltd.",
+        "Şirketin Faaliyet Konusu": "Dayanıklı Tüketim",
+        "Ödenmiş/Çıkarılmış Sermayesi": "17.080.100.000",
+        "Şirketin Sermayedeki Payı": "17.080.100.000",
+        "Para Birimi": "INR",
+        "Şirketin Sermayedeki Payı(%)": "49",
+        "Şirket ile Olan İlişkinin Niteliği": "Özkaynak Yöntemiyle Değerlenen Yatırımlar (İş Ortaklığı)"
+      },
+      {
+        "Ticaret Ünvanı": "Koç Finansman A.Ş.",
+        "Şirketin Faaliyet Konusu": "Tüketici Finansmanı",
+        "Ödenmiş/Çıkarılmış Sermayesi": "100.000.000",
+        "Şirketin Sermayedeki Payı": "47.000.000",
+        "Para Birimi": "TRY",
+        "Şirketin Sermayedeki Payı(%)": "47",
+        "Şirket ile Olan İlişkinin Niteliği": "Özkaynak Yöntemiyle Değerlenen Yatırımlar (İştirakler)"
+      },
+      {
+        "Ticaret Ünvanı": "Ram Dış Ticaret A.Ş.",
+        "Şirketin Faaliyet Konusu": "Dış Ticaret",
+        "Ödenmiş/Çıkarılmış Sermayesi": "6.000.000",
+        "Şirketin Sermayedeki Payı": "2.009.996,99",
+        "Para Birimi": "TRY",
+        "Şirketin Sermayedeki Payı(%)": "33,50",
+        "Şirket ile Olan İlişkinin Niteliği": "Özkaynak Yöntemiyle Değerlenen Yatırımlar (İştirakler)"
+      },
+      {
+        "Ticaret Ünvanı": "Beko Europe Austria GmbH",
+        "Şirketin Faaliyet Konusu": "Dayanıklı Tüketim",
+        "Ödenmiş/Çıkarılmış Sermayesi": "4.859.632",
+        "Şirketin Sermayedeki Payı": "3.644.724",
+        "Para Birimi": "EUR",
+        "Şirketin Sermayedeki Payı(%)": "75",
+        "Şirket ile Olan İlişkinin Niteliği": "Bağlı Ortaklık"
+      },
+      {
+        "Ticaret Ünvanı": "European Appliances Belgium NV",
+        "Şirketin Faaliyet Konusu": "Dayanıklı Tüketim",
+        "Ödenmiş/Çıkarılmış Sermayesi": "7.601.228",
+        "Şirketin Sermayedeki Payı": "5.700.921",
+        "Para Birimi": "EUR",
+        "Şirketin Sermayedeki Payı(%)": "75",
+        "Şirket ile Olan İlişkinin Niteliği": "Bağlı Ortaklık"
+      },
+      {
+        "Ticaret Ünvanı": "Beko Europe Bulgaria EOOD",
+        "Şirketin Faaliyet Konusu": "Dayanıklı Tüketim",
+        "Ödenmiş/Çıkarılmış Sermayesi": "5.000",
+        "Şirketin Sermayedeki Payı": "3.750",
+        "Para Birimi": "BGN",
+        "Şirketin Sermayedeki Payı(%)": "75",
+        "Şirket ile Olan İlişkinin Niteliği": "Bağlı Ortaklık"
+      },
+      {
+        "Ticaret Ünvanı": "Beko Europe Bulgaria EOOD",
+        "Şirketin Faaliyet Konusu": "Dayanıklı Tüketim",
+        "Ödenmiş/Çıkarılmış Sermayesi": "26.670",
+        "Şirketin Sermayedeki Payı": "20.002,5",
+        "Para Birimi": "EUR",
+        "Şirketin Sermayedeki Payı(%)": "75",
+        "Şirket ile Olan İlişkinin Niteliği": "Bağlı Ortaklık"
+      },
+      {
+        "Ticaret Ünvanı": "European Appliances Czech spol. s.r.o.",
+        "Şirketin Faaliyet Konusu": "Dayanıklı Tüketim",
+        "Ödenmiş/Çıkarılmış Sermayesi": "113.000.000",
+        "Şirketin Sermayedeki Payı": "84.750.000",
+        "Para Birimi": "CZK",
+        "Şirketin Sermayedeki Payı(%)": "75",
+        "Şirket ile Olan İlişkinin Niteliği": "Bağlı Ortaklık"
+      },
+      {
+        "Ticaret Ünvanı": "Beko Europe Denmark A/S",
+        "Şirketin Faaliyet Konusu": "Hizmet",
+        "Ödenmiş/Çıkarılmış Sermayesi": "13.001.000",
+        "Şirketin Sermayedeki Payı": "9.750.750",
+        "Para Birimi": "DKK",
+        "Şirketin Sermayedeki Payı(%)": "75",
+        "Şirket ile Olan İlişkinin Niteliği": "Bağlı Ortaklık"
+      },
+      {
+        "Ticaret Ünvanı": "Beko Europe Estonia OÜ",
+        "Şirketin Faaliyet Konusu": "Dayanıklı Tüketim",
+        "Ödenmiş/Çıkarılmış Sermayesi": "9.587",
+        "Şirketin Sermayedeki Payı": "7.190,25",
+        "Para Birimi": "EUR",
+        "Şirketin Sermayedeki Payı(%)": "75",
+        "Şirket ile Olan İlişkinin Niteliği": "Bağlı Ortaklık"
+      },
+      {
+        "Ticaret Ünvanı": "European Appliances Finland OY",
+        "Şirketin Faaliyet Konusu": "Hizmet",
+        "Ödenmiş/Çıkarılmış Sermayesi": "153.051",
+        "Şirketin Sermayedeki Payı": "114.788,25",
+        "Para Birimi": "EUR",
+        "Şirketin Sermayedeki Payı(%)": "75",
+        "Şirket ile Olan İlişkinin Niteliği": "Bağlı Ortaklık"
+      },
+      {
+        "Ticaret Ünvanı": "European Appliances France SAS",
+        "Şirketin Faaliyet Konusu": "Dayanıklı Tüketim",
+        "Ödenmiş/Çıkarılmış Sermayesi": "8.039.286",
+        "Şirketin Sermayedeki Payı": "6.029.464,5",
+        "Para Birimi": "EUR",
+        "Şirketin Sermayedeki Payı(%)": "75",
+        "Şirket ile Olan İlişkinin Niteliği": "Bağlı Ortaklık"
+      },
+      {
+        "Ticaret Ünvanı": "European Appliances France Holdings SAS",
+        "Şirketin Faaliyet Konusu": "Holding",
+        "Ödenmiş/Çıkarılmış Sermayesi": "79.903.708",
+        "Şirketin Sermayedeki Payı": "59.927.781",
+        "Para Birimi": "EUR",
+        "Şirketin Sermayedeki Payı(%)": "75",
+        "Şirket ile Olan İlişkinin Niteliği": "Bağlı Ortaklık"
+      },
+      {
+        "Ticaret Ünvanı": "IRE Beteiligungs GmbH",
+        "Şirketin Faaliyet Konusu": "Satış\\Elektronik",
+        "Ödenmiş/Çıkarılmış Sermayesi": "3.580.000",
+        "Şirketin Sermayedeki Payı": "2.685.000",
+        "Para Birimi": "EUR",
+        "Şirketin Sermayedeki Payı(%)": "75",
+        "Şirket ile Olan İlişkinin Niteliği": "Bağlı Ortaklık"
+      },
+      {
+        "Ticaret Ünvanı": "Bauknecht Hausgeräte Gmbh",
+        "Şirketin Faaliyet Konusu": "Dayanıklı Tüketim",
+        "Ödenmiş/Çıkarılmış Sermayesi": "77.465.000",
+        "Şirketin Sermayedeki Payı": "58.098.750",
+        "Para Birimi": "EUR",
+        "Şirketin Sermayedeki Payı(%)": "75",
+        "Şirket ile Olan İlişkinin Niteliği": "Bağlı Ortaklık"
+      },
+      {
+        "Ticaret Ünvanı": "European Appliances Greece SA",
+        "Şirketin Faaliyet Konusu": "Dayanıklı Tüketim",
+        "Ödenmiş/Çıkarılmış Sermayesi": "147.202",
+        "Şirketin Sermayedeki Payı": "110.401,5",
+        "Para Birimi": "EUR",
+        "Şirketin Sermayedeki Payı(%)": "75",
+        "Şirket ile Olan İlişkinin Niteliği": "Bağlı Ortaklık"
+      },
+      {
+        "Ticaret Ünvanı": "European Appliances Hungary KFT",
+        "Şirketin Faaliyet Konusu": "Dayanıklı Tüketim",
+        "Ödenmiş/Çıkarılmış Sermayesi": "4.000.000",
+        "Şirketin Sermayedeki Payı": "3.000.000",
+        "Para Birimi": "HUF",
+        "Şirketin Sermayedeki Payı(%)": "75",
+        "Şirket ile Olan İlişkinin Niteliği": "Bağlı Ortaklık"
+      },
+      {
+        "Ticaret Ünvanı": "Hotpoint Ireland Ltd",
+        "Şirketin Faaliyet Konusu": "Dayanıklı Tüketim",
+        "Ödenmiş/Çıkarılmış Sermayesi": "1.000.000",
+        "Şirketin Sermayedeki Payı": "750.000",
+        "Para Birimi": "EUR",
+        "Şirketin Sermayedeki Payı(%)": "75",
+        "Şirket ile Olan İlişkinin Niteliği": "Bağlı Ortaklık"
+      },
+      {
+        "Ticaret Ünvanı": "Beko Europe Management Srl",
+        "Şirketin Faaliyet Konusu": "Dayanıklı Tüketim",
+        "Ödenmiş/Çıkarılmış Sermayesi": "10.000.000",
+        "Şirketin Sermayedeki Payı": "7.500.000",
+        "Para Birimi": "EUR",
+        "Şirketin Sermayedeki Payı(%)": "75",
+        "Şirket ile Olan İlişkinin Niteliği": "Bağlı Ortaklık"
+      },
+      {
+        "Ticaret Ünvanı": "Beko Italy Manufacturing Srl",
+        "Şirketin Faaliyet Konusu": "Dayanıklı Tüketim",
+        "Ödenmiş/Çıkarılmış Sermayesi": "102.759.269",
+        "Şirketin Sermayedeki Payı": "77.069.451,75",
+        "Para Birimi": "EUR",
+        "Şirketin Sermayedeki Payı(%)": "75",
+        "Şirket ile Olan İlişkinin Niteliği": "Bağlı Ortaklık"
+      },
+      {
+        "Ticaret Ünvanı": "European Appliances Italy SRL",
+        "Şirketin Faaliyet Konusu": "Dayanıklı Tüketim",
+        "Ödenmiş/Çıkarılmış Sermayesi": "1.000.000",
+        "Şirketin Sermayedeki Payı": "750.000",
+        "Para Birimi": "EUR",
+        "Şirketin Sermayedeki Payı(%)": "75",
+        "Şirket ile Olan İlişkinin Niteliği": "Bağlı Ortaklık"
+      },
+      {
+        "Ticaret Ünvanı": "European Appliances R&D SRL",
+        "Şirketin Faaliyet Konusu": "Dayanıklı Tüketim",
+        "Ödenmiş/Çıkarılmış Sermayesi": "10.000",
+        "Şirketin Sermayedeki Payı": "7.500",
+        "Para Birimi": "EUR",
+        "Şirketin Sermayedeki Payı(%)": "75",
+        "Şirket ile Olan İlişkinin Niteliği": "Bağlı Ortaklık"
+      },
+      {
+        "Ticaret Ünvanı": "Beko Europe Latvia SIA",
+        "Şirketin Faaliyet Konusu": "Dayanıklı Tüketim",
+        "Ödenmiş/Çıkarılmış Sermayesi": "2.845",
+        "Şirketin Sermayedeki Payı": "2.133,75",
+        "Para Birimi": "EUR",
+        "Şirketin Sermayedeki Payı(%)": "75",
+        "Şirket ile Olan İlişkinin Niteliği": "Bağlı Ortaklık"
+      },
+      {
+        "Ticaret Ünvanı": "Beko Europe Lithuania UAB",
+        "Şirketin Faaliyet Konusu": "Dayanıklı Tüketim",
+        "Ödenmiş/Çıkarılmış Sermayesi": "2.896",
+        "Şirketin Sermayedeki Payı": "2.172",
+        "Para Birimi": "EUR",
+        "Şirketin Sermayedeki Payı(%)": "75",
+        "Şirket ile Olan İlişkinin Niteliği": "Bağlı Ortaklık"
+      },
+      {
+        "Ticaret Ünvanı": "European Appliances Netherlands BV",
+        "Şirketin Faaliyet Konusu": "Satış",
+        "Ödenmiş/Çıkarılmış Sermayesi": "4.556.000",
+        "Şirketin Sermayedeki Payı": "3.417.000",
+        "Para Birimi": "EUR",
+        "Şirketin Sermayedeki Payı(%)": "75",
+        "Şirket ile Olan İlişkinin Niteliği": "Bağlı Ortaklık"
+      },
+      {
+        "Ticaret Ünvanı": "European Appliances Norway AS",
+        "Şirketin Faaliyet Konusu": "Hizmet",
+        "Ödenmiş/Çıkarılmış Sermayesi": "7.000.000",
+        "Şirketin Sermayedeki Payı": "5.250.000",
+        "Para Birimi": "NOK",
+        "Şirketin Sermayedeki Payı(%)": "75",
+        "Şirket ile Olan İlişkinin Niteliği": "Bağlı Ortaklık"
+      },
+      {
+        "Ticaret Ünvanı": "Beko Poland Manufacturing Sp.z o.o.",
+        "Şirketin Faaliyet Konusu": "Dayanıklı Tüketim",
+        "Ödenmiş/Çıkarılmış Sermayesi": "540.876.500",
+        "Şirketin Sermayedeki Payı": "405.657.375",
+        "Para Birimi": "EUR",
+        "Şirketin Sermayedeki Payı(%)": "75",
+        "Şirket ile Olan İlişkinin Niteliği": "Bağlı Ortaklık"
+      },
+      {
+        "Ticaret Ünvanı": "European Appliances Poland Sp. z o.o.",
+        "Şirketin Faaliyet Konusu": "Dayanıklı Tüketim",
+        "Ödenmiş/Çıkarılmış Sermayesi": "210.648.000",
+        "Şirketin Sermayedeki Payı": "157.986.000",
+        "Para Birimi": "PLN",
+        "Şirketin Sermayedeki Payı(%)": "75",
+        "Şirket ile Olan İlişkinin Niteliği": "Bağlı Ortaklık"
+      },
+      {
+        "Ticaret Ünvanı": "Beko Europe Iberia S.A.",
+        "Şirketin Faaliyet Konusu": "Dayanıklı Tüketim",
+        "Ödenmiş/Çıkarılmış Sermayesi": "1.696.033",
+        "Şirketin Sermayedeki Payı": "1.272.024,75",
+        "Para Birimi": "EUR",
+        "Şirketin Sermayedeki Payı(%)": "75",
+        "Şirket ile Olan İlişkinin Niteliği": "Bağlı Ortaklık"
+      },
+      {
+        "Ticaret Ünvanı": "European Appliances Romania SRL",
+        "Şirketin Faaliyet Konusu": "Dayanıklı Tüketim",
+        "Ödenmiş/Çıkarılmış Sermayesi": "4.005.401",
+        "Şirketin Sermayedeki Payı": "3.004.050,75",
+        "Para Birimi": "RON",
+        "Şirketin Sermayedeki Payı(%)": "75",
+        "Şirket ile Olan İlişkinin Niteliği": "Bağlı Ortaklık"
+      },
+      {
+        "Ticaret Ünvanı": "European Appliances Balkans d.o.o. Beograd",
+        "Şirketin Faaliyet Konusu": "Hizmet",
+        "Ödenmiş/Çıkarılmış Sermayesi": "863.000",
+        "Şirketin Sermayedeki Payı": "647.250",
+        "Para Birimi": "RSD",
+        "Şirketin Sermayedeki Payı(%)": "75",
+        "Şirket ile Olan İlişkinin Niteliği": "Bağlı Ortaklık"
+      },
+      {
+        "Ticaret Ünvanı": "European Appliances Slovakia spol. s r.o.",
+        "Şirketin Faaliyet Konusu": "Dayanıklı Tüketim",
+        "Ödenmiş/Çıkarılmış Sermayesi": "8.332.830",
+        "Şirketin Sermayedeki Payı": "6.249.622,5",
+        "Para Birimi": "EUR",
+        "Şirketin Sermayedeki Payı(%)": "75",
+        "Şirket ile Olan İlişkinin Niteliği": "Bağlı Ortaklık"
+      },
+      {
+        "Ticaret Ünvanı": "Beko Manufacturing Slovakia spol. S.r.o",
+        "Şirketin Faaliyet Konusu": "Dayanıklı Tüketim",
+        "Ödenmiş/Çıkarılmış Sermayesi": "128.500.472",
+        "Şirketin Sermayedeki Payı": "96.375.354",
+        "Para Birimi": "EUR",
+        "Şirketin Sermayedeki Payı(%)": "75",
+        "Şirket ile Olan İlişkinin Niteliği": "Bağlı Ortaklık"
+      },
+      {
+        "Ticaret Ünvanı": "European Home Appliances Spain S.A.",
+        "Şirketin Faaliyet Konusu": "Dayanıklı Tüketim",
+        "Ödenmiş/Çıkarılmış Sermayesi": "166.386",
+        "Şirketin Sermayedeki Payı": "124.789,5",
+        "Para Birimi": "EUR",
+        "Şirketin Sermayedeki Payı(%)": "75",
+        "Şirket ile Olan İlişkinin Niteliği": "Bağlı Ortaklık"
+      },
+      {
+        "Ticaret Ünvanı": "European Appliances Nordic AB",
+        "Şirketin Faaliyet Konusu": "Dayanıklı Tüketim",
+        "Ödenmiş/Çıkarılmış Sermayesi": "1.100.000",
+        "Şirketin Sermayedeki Payı": "825.000",
+        "Para Birimi": "SEK",
+        "Şirketin Sermayedeki Payı(%)": "75",
+        "Şirket ile Olan İlişkinin Niteliği": "Bağlı Ortaklık"
+      },
+      {
+        "Ticaret Ünvanı": "Indesit Company International Business SA",
+        "Şirketin Faaliyet Konusu": "Hazine",
+        "Ödenmiş/Çıkarılmış Sermayesi": "250.000",
+        "Şirketin Sermayedeki Payı": "187.500",
+        "Para Birimi": "CHF",
+        "Şirketin Sermayedeki Payı(%)": "75",
+        "Şirket ile Olan İlişkinin Niteliği": "Bağlı Ortaklık"
+      },
+      {
+        "Ticaret Ünvanı": "Bauknecht AG",
+        "Şirketin Faaliyet Konusu": "Dayanıklı Tüketim",
+        "Ödenmiş/Çıkarılmış Sermayesi": "5.000.000",
+        "Şirketin Sermayedeki Payı": "3.750.000",
+        "Para Birimi": "CHF",
+        "Şirketin Sermayedeki Payı(%)": "75",
+        "Şirket ile Olan İlişkinin Niteliği": "Bağlı Ortaklık"
+      },
+      {
+        "Ticaret Ünvanı": "European Appliances Ukraine LLC",
+        "Şirketin Faaliyet Konusu": "Dayanıklı Tüketim",
+        "Ödenmiş/Çıkarılmış Sermayesi": "1.208.183.830",
+        "Şirketin Sermayedeki Payı": "906.137.872,5",
+        "Para Birimi": "UAH",
+        "Şirketin Sermayedeki Payı(%)": "75",
+        "Şirket ile Olan İlişkinin Niteliği": "Bağlı Ortaklık"
+      },
+      {
+        "Ticaret Ünvanı": "General Domestic Appliances Holdings LTD",
+        "Şirketin Faaliyet Konusu": "Holding",
+        "Ödenmiş/Çıkarılmış Sermayesi": "27.000.000",
+        "Şirketin Sermayedeki Payı": "20.250.000",
+        "Para Birimi": "GBP",
+        "Şirketin Sermayedeki Payı(%)": "75",
+        "Şirket ile Olan İlişkinin Niteliği": "Bağlı Ortaklık"
+      },
+      {
+        "Ticaret Ünvanı": "Indesit Company UK Holdings LTD",
+        "Şirketin Faaliyet Konusu": "Holding",
+        "Ödenmiş/Çıkarılmış Sermayesi": "163.000.000",
+        "Şirketin Sermayedeki Payı": "122.250.000",
+        "Para Birimi": "GBP",
+        "Şirketin Sermayedeki Payı(%)": "75",
+        "Şirket ile Olan İlişkinin Niteliği": "Bağlı Ortaklık"
+      },
+      {
+        "Ticaret Ünvanı": "Hotpoint UK Appliances Limited",
+        "Şirketin Faaliyet Konusu": "Dayanıklı Tüketim\\Elektronik",
+        "Ödenmiş/Çıkarılmış Sermayesi": "77.195.645",
+        "Şirketin Sermayedeki Payı": "5.789.673,753",
+        "Para Birimi": "GBP",
+        "Şirketin Sermayedeki Payı(%)": "75",
+        "Şirket ile Olan İlişkinin Niteliği": "Bağlı Ortaklık"
+      },
+      {
+        "Ticaret Ünvanı": "Beko Europe Holdings BV",
+        "Şirketin Faaliyet Konusu": "Dayanıklı Tüketim\\Elektronik",
+        "Ödenmiş/Çıkarılmış Sermayesi": "7",
+        "Şirketin Sermayedeki Payı": "5,25",
+        "Para Birimi": "EUR",
+        "Şirketin Sermayedeki Payı(%)": "75",
+        "Şirket ile Olan İlişkinin Niteliği": "Bağlı Ortaklık"
+      },
+      {
+        "Ticaret Ünvanı": "Beko Maghreb Sarl",
+        "Şirketin Faaliyet Konusu": "Dayanıklı Tüketim",
+        "Ödenmiş/Çıkarılmış Sermayesi": "71.500.000",
+        "Şirketin Sermayedeki Payı": "53.625.000",
+        "Para Birimi": "MAD",
+        "Şirketin Sermayedeki Payı(%)": "100",
+        "Şirket ile Olan İlişkinin Niteliği": "Bağlı Ortaklık"
+      },
+      {
+        "Ticaret Ünvanı": "Beko Gulf DMCC",
+        "Şirketin Faaliyet Konusu": "Dayanıklı Tüketim",
+        "Ödenmiş/Çıkarılmış Sermayesi": "50.000",
+        "Şirketin Sermayedeki Payı": "37.500",
+        "Para Birimi": "AED",
+        "Şirketin Sermayedeki Payı(%)": "100",
+        "Şirket ile Olan İlişkinin Niteliği": "Bağlı Ortaklık"
+      },
+      {
+        "Ticaret Ünvanı": "Beko AE LLC",
+        "Şirketin Faaliyet Konusu": "Dayanıklı Tüketim",
+        "Ödenmiş/Çıkarılmış Sermayesi": "0",
+        "Şirketin Sermayedeki Payı": "0",
+        "Para Birimi": "AED",
+        "Şirketin Sermayedeki Payı(%)": "100",
+        "Şirket ile Olan İlişkinin Niteliği": "Bağlı Ortaklık"
+      },
+      {
+        "Ticaret Ünvanı": "Beko Canada INC",
+        "Şirketin Faaliyet Konusu": "Dayanıklı Tüketim",
+        "Ödenmiş/Çıkarılmış Sermayesi": "2.700.000",
+        "Şirketin Sermayedeki Payı": "2.025.000",
+        "Para Birimi": "TRY",
+        "Şirketin Sermayedeki Payı(%)": "100",
+        "Şirket ile Olan İlişkinin Niteliği": "Bağlı Ortaklık"
+      }
+    ]
+  },
+  "board_members": [
+    {
+      "Adı-Soyadı": "MUSTAFA RAHMİ KOÇ",
+      "Tüzel Kişi Üye Adına Hareket Eden Kişi": "",
+      "Cinsiyeti": "Erkek",
+      "Görevi": "Yönetim Kurulu Başkanı",
+      "Mesleği": "İş Adamı / İş Kadını",
+      "Yönetim Kuruluna İlk Seçilme Tarihi": "16/03/1967",
+      "İcrada Görevli Olup Olmadığı": "İcrada Görevli Değil",
+      "Son 5 Yılda Ortaklıkta Üstlendiği Görevler": "Yönetim Kurulu Başkanı",
+      "Son Durum itibariyle Ortaklık Dışında Aldığı Görevler": "Koç Holding A.Ş. Şeref Başkanı-Koç Grubu Şirketlerinde Yönetim Kurulu Üyelikleri",
+      "Denetim, Muhasebe ve/veya Finans Alanında En Az 5 Yıllık Deneyime Sahip Olup Olmadığı": "Evet",
+      "Sermayedeki Payı (%)": "2,44",
+      "Temsil Ettiği Pay Grubu": ""
+    },
+    {
+      "Adı-Soyadı": "MEHMET ÖMER KOÇ",
+      "Tüzel Kişi Üye Adına Hareket Eden Kişi": "",
+      "Cinsiyeti": "Erkek",
+      "Görevi": "Yönetim Kurulu Başkan Vekili",
+      "Mesleği": "İş Adamı / İş Kadını",
+      "Yönetim Kuruluna İlk Seçilme Tarihi": "12/04/2005",
+      "İcrada Görevli Olup Olmadığı": "İcrada Görevli Değil",
+      "Son 5 Yılda Ortaklıkta Üstlendiği Görevler": "Yönetim Kurulu Başkan Vekili",
+      "Son Durum itibariyle Ortaklık Dışında Aldığı Görevler": "Koç Holding A.Ş. Yönetim Kurulu Başkanı-Koç Grubu Şirketlerinde Yönetim Kurulu Üyelikleri",
+      "Denetim, Muhasebe ve/veya Finans Alanında En Az 5 Yıllık Deneyime Sahip Olup Olmadığı": "Evet",
+      "Sermayedeki Payı (%)": "",
+      "Temsil Ettiği Pay Grubu": ""
+    },
+    {
+      "Adı-Soyadı": "SEMAHAT SEVİM ARSEL",
+      "Tüzel Kişi Üye Adına Hareket Eden Kişi": "",
+      "Cinsiyeti": "Kadın",
+      "Görevi": "Yönetim Kurulu Üyesi",
+      "Mesleği": "İş Adamı / İş Kadını",
+      "Yönetim Kuruluna İlk Seçilme Tarihi": "05/04/2006",
+      "İcrada Görevli Olup Olmadığı": "İcrada Görevli Değil",
+      "Son 5 Yılda Ortaklıkta Üstlendiği Görevler": "Yönetim Kurulu Üyesi",
+      "Son Durum itibariyle Ortaklık Dışında Aldığı Görevler": "Koç Holding A.Ş. Yönetim Kurulu Üyesi-Koç Grubu Şirketlerinde Yönetim Kurulu Üyelikleri",
+      "Denetim, Muhasebe ve/veya Finans Alanında En Az 5 Yıllık Deneyime Sahip Olup Olmadığı": "Evet",
+      "Sermayedeki Payı (%)": "2,72",
+      "Temsil Ettiği Pay Grubu": ""
+    },
+    {
+      "Adı-Soyadı": "YILDIRIM ALİ KOÇ",
+      "Tüzel Kişi Üye Adına Hareket Eden Kişi": "",
+      "Cinsiyeti": "Erkek",
+      "Görevi": "Yönetim Kurulu Üyesi",
+      "Mesleği": "İş Adamı / İş Kadını",
+      "Yönetim Kuruluna İlk Seçilme Tarihi": "25/03/2009",
+      "İcrada Görevli Olup Olmadığı": "İcrada Görevli Değil",
+      "Son 5 Yılda Ortaklıkta Üstlendiği Görevler": "Yönetim Kurulu Üyesi",
+      "Son Durum itibariyle Ortaklık Dışında Aldığı Görevler": "Koç Holding A.Ş. Yönetim Kurulu Başkan Vekili-Koç Grubu Şirketlerinde Yönetim Kurulu Üyelikleri",
+      "Denetim, Muhasebe ve/veya Finans Alanında En Az 5 Yıllık Deneyime Sahip Olup Olmadığı": "Evet",
+      "Sermayedeki Payı (%)": "",
+      "Temsil Ettiği Pay Grubu": ""
+    },
+    {
+      "Adı-Soyadı": "LEVENT ÇAKIROĞLU",
+      "Tüzel Kişi Üye Adına Hareket Eden Kişi": "",
+      "Cinsiyeti": "Erkek",
+      "Görevi": "Yönetim Kurulu Üyesi",
+      "Mesleği": "Üst Düzey Yönetici",
+      "Yönetim Kuruluna İlk Seçilme Tarihi": "25/03/2009",
+      "İcrada Görevli Olup Olmadığı": "İcrada Görevli Değil",
+      "Son 5 Yılda Ortaklıkta Üstlendiği Görevler": "Yönetim Kurulu Üyesi",
+      "Son Durum itibariyle Ortaklık Dışında Aldığı Görevler": "Koç Holding A.Ş. CEO - Koç Grubu Şirketlerinde Yönetim Kurulu Üyelikleri",
+      "Denetim, Muhasebe ve/veya Finans Alanında En Az 5 Yıllık Deneyime Sahip Olup Olmadığı": "Evet",
+      "Sermayedeki Payı (%)": "",
+      "Temsil Ettiği Pay Grubu": ""
+    },
+    {
+      "Adı-Soyadı": "ROBERT SONMAN",
+      "Tüzel Kişi Üye Adına Hareket Eden Kişi": "",
+      "Cinsiyeti": "Erkek",
+      "Görevi": "Yönetim Kurulu Üyesi",
+      "Mesleği": "İş Adamı / İş Kadını",
+      "Yönetim Kuruluna İlk Seçilme Tarihi": "15/04/1994",
+      "İcrada Görevli Olup Olmadığı": "İcrada Görevli Değil",
+      "Son 5 Yılda Ortaklıkta Üstlendiği Görevler": "Yönetim Kurulu Üyesi",
+      "Son Durum itibariyle Ortaklık Dışında Aldığı Görevler": "Burla Grubu Yönetim Kurulu Başkanı",
+      "Denetim, Muhasebe ve/veya Finans Alanında En Az 5 Yıllık Deneyime Sahip Olup Olmadığı": "Evet",
+      "Sermayedeki Payı (%)": "",
+      "Temsil Ettiği Pay Grubu": ""
+    },
+    {
+      "Adı-Soyadı": "FATİH KEMAL EBİÇLİOĞLU",
+      "Tüzel Kişi Üye Adına Hareket Eden Kişi": "",
+      "Cinsiyeti": "Erkek",
+      "Görevi": "Yönetim Kurulu Üyesi",
+      "Mesleği": "Üst Düzey Yönetici",
+      "Yönetim Kuruluna İlk Seçilme Tarihi": "23/03/2015",
+      "İcrada Görevli Olup Olmadığı": "İcrada Görevli Değil",
+      "Son 5 Yılda Ortaklıkta Üstlendiği Görevler": "Yönetim Kurulu Üyesi",
+      "Son Durum itibariyle Ortaklık Dışında Aldığı Görevler": "Koç Holding A.Ş. Dayanıklı Tüketim Grubu Başkanı",
+      "Denetim, Muhasebe ve/veya Finans Alanında En Az 5 Yıllık Deneyime Sahip Olup Olmadığı": "Evet",
+      "Sermayedeki Payı (%)": "",
+      "Temsil Ettiği Pay Grubu": ""
+    },
+    {
+      "Adı-Soyadı": "HAKAN HAMDİ BULGURLU",
+      "Tüzel Kişi Üye Adına Hareket Eden Kişi": "",
+      "Cinsiyeti": "Erkek",
+      "Görevi": "Yönetim Kurulu Üyesi",
+      "Mesleği": "Üst Düzey Yönetici",
+      "Yönetim Kuruluna İlk Seçilme Tarihi": "25/03/2016",
+      "İcrada Görevli Olup Olmadığı": "İcrada Görevli",
+      "Son 5 Yılda Ortaklıkta Üstlendiği Görevler": "Genel Müdür",
+      "Son Durum itibariyle Ortaklık Dışında Aldığı Görevler": "Yönetim Kurulu Üyelikleri",
+      "Denetim, Muhasebe ve/veya Finans Alanında En Az 5 Yıllık Deneyime Sahip Olup Olmadığı": "Evet",
+      "Sermayedeki Payı (%)": "",
+      "Temsil Ettiği Pay Grubu": ""
+    },
+    {
+      "Adı-Soyadı": "TUĞRUL FADILLIOĞLU",
+      "Tüzel Kişi Üye Adına Hareket Eden Kişi": "",
+      "Cinsiyeti": "Erkek",
+      "Görevi": "Yönetim Kurulu Üyesi",
+      "Mesleği": "Üst Düzey Yönetici",
+      "Yönetim Kuruluna İlk Seçilme Tarihi": "25/03/2020",
+      "İcrada Görevli Olup Olmadığı": "İcrada Görevli Değil",
+      "Son 5 Yılda Ortaklıkta Üstlendiği Görevler": "",
+      "Son Durum itibariyle Ortaklık Dışında Aldığı Görevler": "Yönetim Kurulu Üyelikleri",
+      "Denetim, Muhasebe ve/veya Finans Alanında En Az 5 Yıllık Deneyime Sahip Olup Olmadığı": "Evet",
+      "Sermayedeki Payı (%)": "",
+      "Temsil Ettiği Pay Grubu": ""
+    },
+    {
+      "Adı-Soyadı": "GALYA FANİ MOLİNAS",
+      "Tüzel Kişi Üye Adına Hareket Eden Kişi": "",
+      "Cinsiyeti": "Kadın",
+      "Görevi": "Yönetim Kurulu Üyesi",
+      "Mesleği": "Üst Düzey Yönetici",
+      "Yönetim Kuruluna İlk Seçilme Tarihi": "04/04/2024",
+      "İcrada Görevli Olup Olmadığı": "İcrada Görevli Değil",
+      "Son 5 Yılda Ortaklıkta Üstlendiği Görevler": "-",
+      "Son Durum itibariyle Ortaklık Dışında Aldığı Görevler": "Yönetim Kurulu Üyelikleri",
+      "Denetim, Muhasebe ve/veya Finans Alanında En Az 5 Yıllık Deneyime Sahip Olup Olmadığı": "Evet",
+      "Sermayedeki Payı (%)": "",
+      "Temsil Ettiği Pay Grubu": ""
+    },
+    {
+      "Adı-Soyadı": "AYŞE CANAN EDİBOĞLU",
+      "Tüzel Kişi Üye Adına Hareket Eden Kişi": "",
+      "Cinsiyeti": "Kadın",
+      "Görevi": "Yönetim Kurulu Üyesi",
+      "Mesleği": "Üst Düzey Yönetici",
+      "Yönetim Kuruluna İlk Seçilme Tarihi": "04/04/2024",
+      "İcrada Görevli Olup Olmadığı": "İcrada Görevli Değil",
+      "Son 5 Yılda Ortaklıkta Üstlendiği Görevler": "-",
+      "Son Durum itibariyle Ortaklık Dışında Aldığı Görevler": "Yönetim Kurulu Üyelikleri",
+      "Denetim, Muhasebe ve/veya Finans Alanında En Az 5 Yıllık Deneyime Sahip Olup Olmadığı": "Evet",
+      "Sermayedeki Payı (%)": "",
+      "Temsil Ettiği Pay Grubu": ""
+    },
+    {
+      "Adı-Soyadı": "AHMET KIRMAN",
+      "Tüzel Kişi Üye Adına Hareket Eden Kişi": "",
+      "Cinsiyeti": "Erkek",
+      "Görevi": "Yönetim Kurulu Üyesi",
+      "Mesleği": "İş Adamı / İş Kadını",
+      "Yönetim Kuruluna İlk Seçilme Tarihi": "28/03/2025",
+      "İcrada Görevli Olup Olmadığı": "İcrada Görevli Değil",
+      "Son 5 Yılda Ortaklıkta Üstlendiği Görevler": "",
+      "Son Durum itibariyle Ortaklık Dışında Aldığı Görevler": "Yönetim Kurulu Başkanlığı ve Üyeliği",
+      "Denetim, Muhasebe ve/veya Finans Alanında En Az 5 Yıllık Deneyime Sahip Olup Olmadığı": "",
+      "Sermayedeki Payı (%)": "",
+      "Temsil Ettiği Pay Grubu": ""
+    }
+  ],
+  "oy_haklari": {
+    "pairs": [
+      {
+        "alan": "Oy hakkında imtiyaz bulunup bulunmadığı",
+        "deger": "Hayır (No)"
+      },
+      {
+        "alan": "Oyda imtiyaz bulunuyorsa, imtiyazlı pay sahipleri ve oy oranları",
+        "deger": "-"
+      },
+      {
+        "alan": "En büyük pay sahibinin ortaklık oranı",
+        "deger": "%41,43"
+      }
+    ]
+  },
+  "katilim_4_7": {
+    "m1": "EVET",
+    "m2": "HAYIR",
+    "m3": "HAYIR",
+    "m4": "HAYIR",
+    "m5": "1,11",
+    "m6": "10,65",
+    "m7": "38,7"
+  }
+}
