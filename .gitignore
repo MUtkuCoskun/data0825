@@ -3,3 +3,9 @@ serviceAccountKey.json
 .env.local
 out/
 
+node_modules/
+.DS_Store
+serviceAccountKey.json
+.env
+.env.local
+out/
