@@ -1,9 +1,8 @@
 name: Daily Merge + Import
-
 on:
   schedule:
-    - cron: "5 4 * * *"   # her gün 04:05 UTC ≈ 06:05 CET/CEST (Berlin)
-  workflow_dispatch: {}    # isterse elle de tetiklersin
+    - cron: "5 4 * * *"   # her gün 04:05 UTC (Berlin ~06:05)
+  workflow_dispatch: {}
 
 jobs:
   run:
@@ -11,15 +10,33 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      # 1) Node (İş Yatırım -> bilanco_json)
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+      - name: Build bilanco_json
+        run: |
+          npm ci || npm i
+          # repo içindeki script adına uyumlu hale getir
+          npx tsx scripts/isyatirim-batch-json.ts
+
+      # 2) Python + Headless Chrome (KAP -> kap_json)
       - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
-
-      - name: Install deps
+      - name: Install Python deps
         run: |
           python -m pip install --upgrade pip
-          pip install "supabase==2.*" python-dateutil
+          pip install selenium webdriver-manager pandas python-dateutil supabase==2.*
+      - name: Build kap_json (headless)
+        env:
+          # gerekirse KAP tarafı için cookie/oturum değişkenleri eklenir
+          # KAP_COOKIES: ${{ secrets.KAP_COOKIES }}
+          PYTHONUNBUFFERED: "1"
+        run: |
+          python scripts/kap_batch_from_tickerfile.py -f public/tickers.txt --headless
 
+      # 3) Merge + Supabase'e yaz
       - name: Merge KAP+Bilanco & Import to Supabase
         env:
           SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
