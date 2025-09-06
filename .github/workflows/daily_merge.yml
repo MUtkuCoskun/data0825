@@ -1,42 +1,50 @@
 name: Daily Merge + Import
+
 on:
   schedule:
-    - cron: "5 4 * * *"   # her gün 04:05 UTC (Berlin ~06:05)
+    - cron: "5 4 * * *"   # her gün 04:05 UTC ≈ 06:05 Berlin
   workflow_dispatch: {}
 
 jobs:
   run:
     runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
 
-      # 1) Node (İş Yatırım -> bilanco_json)
-      - uses: actions/setup-node@v4
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      # ——— BILANÇO (İnkremental) ———
+      - name: Setup Node
+        uses: actions/setup-node@v4
         with:
           node-version: "20"
-      - name: Build bilanco_json
-        run: |
-          npm ci || npm i
-          # repo içindeki script adına uyumlu hale getir
-          npx tsx scripts/isyatirim-batch-json.ts
 
-      # 2) Python + Headless Chrome (KAP -> kap_json)
-      - uses: actions/setup-python@v5
+      - name: Install Node deps (lazy)
+        run: |
+          npm i
+
+      - name: Sync bilanco_json incrementally
+        run: |
+          npx tsx scripts/isyatirim-sync.ts
+
+      # ——— KAP (Headless, CI uyumlu) ———
+      - name: Setup Python
+        uses: actions/setup-python@v5
         with:
           python-version: "3.11"
+
       - name: Install Python deps
         run: |
           python -m pip install --upgrade pip
           pip install selenium webdriver-manager pandas python-dateutil supabase==2.*
-      - name: Build kap_json (headless)
-        env:
-          # gerekirse KAP tarafı için cookie/oturum değişkenleri eklenir
-          # KAP_COOKIES: ${{ secrets.KAP_COOKIES }}
-          PYTHONUNBUFFERED: "1"
-        run: |
-          python scripts/kap_batch_from_tickerfile.py -f public/tickers.txt --headless
 
-      # 3) Merge + Supabase'e yaz
+      # Not: Script’ine --headless parametresi eklemeye gerek yok.
+      # CI’da Chrome’u Xvfb ile headless koşturuyoruz.
+      - name: Build kap_json (headless via Xvfb)
+        run: |
+          xvfb-run -a python scripts/kap_batch_from_tickerfile.py -f public/tickers.txt
+
+      # ——— Merge + Supabase’e yaz ———
       - name: Merge KAP+Bilanco & Import to Supabase
         env:
           SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
