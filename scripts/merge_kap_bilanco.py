@@ -15,7 +15,7 @@ Bağımlılıklar:
 
 import os, sys, json, re, hashlib
 from typing import List, Dict, Any, Optional
-from datetime import date
+
 try:
     from dateutil import parser as dtparser
 except Exception:
