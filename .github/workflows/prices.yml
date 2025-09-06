@@ -1,0 +1,30 @@
+name: Prices Job
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"   # her 5 dk
+  workflow_dispatch: {}
+
+concurrency:
+  group: prices-job
+  cancel-in-progress: true
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Install deps
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+      - name: Run prices job
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+          TICKER_FILE: public/tickers.txt
+        run: |
+          python scripts/prices_job.py
