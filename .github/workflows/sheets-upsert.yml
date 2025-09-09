@@ -1,1 +1,27 @@
+name: Sheets Upsert (JSON → Google Sheets)
 
+on:
+  schedule:
+    - cron: "0 6 * * *"    # 09:00 TR
+    - cron: "10 15 * * *"  # 18:10 TR
+  workflow_dispatch: {}
+
+jobs:
+  upsert:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install deps
+        run: pip install gspread google-auth
+
+      - name: Upsert to Google Sheets
+        env:
+          GOOGLE_CREDENTIALS: ${{ secrets.GOOGLE_CREDENTIALS }}
+          SHARE_WITH_EMAIL: ${{ secrets.SHARE_WITH_EMAIL }}
+        run: python scripts/sheets_upsert_from_data0825.py
